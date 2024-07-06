@@ -1,0 +1,1019 @@
+answererId, tag numberofanswers score,....
+10 rooting 3 332 root-access 1 264 settings 2 39 camera 3 41 security 3 59 lost-phone 2 38 authorization 1 5 wi-fi 3 19 2.1-eclair 2 13 wifi-tethering 1 8 cyanogenmod 2 10 custom-roms 2 12 dialer-codes 1 38 video 1 6 google-talk 1 6 video-conference 1 6 calls 1 7 call-recording 1 7 google-maps 2 9 images 1 117 screenshots 1 117 sms 3 43 bookmarks 1 5 firefox 1 5 hardware 1 17 camera-flash 1 17 qr-code 1 7 applications 7 94 2.2-froyo 2 10 application-autoupdate 2 10 locale 1 10 tasker 1 10 automation 1 10 sd-card 1 4 app2sd 1 4 internal-storage 1 5 performance 2 9 insufficient-memory 1 5 google-play-store 4 55 sync 3 40 google-account 1 30 backup 1 24 restore 1 24 rom-flashing 1 6 viewsonic-gtablet 1 6 zoom 1 8 focus 1 8 privacy 1 4 unrooting 1 4 app-ratings 1 12 htc-sense 1 4 screen 1 4 htc-desire-hd 1 4 htc-desire 2 13 car-dock 1 9 docking-station 1 9 data-monitoring 1 6 installation 1 30 apk 1 30 email 2 13 calendar 1 5 gps 1 9 gps-tracking 1 9 maps 1 9 offline-map 1 9 cache 1 5 uninstallation 1 4 system 1 4 bloatware 1 4 file-transfer 1 5 paid-apps 1 20 k9-mail 1 8 nexus-one 1 9 usb 1 9 battery 1 9 charging 1 9 updates 1 5 htc-magic 1 5 1.6-donut 1 5 gmail 1 14 offline 1 14 motorola-droid-x 1 9 call-screening 1 9 ebooks 1 8 kindle-for-android 1 8 notification-icons 1 12 samsung-droid-charge 1 12 2.3-gingerbread 1 4 lock-screens 1 4 malware 1 22 carrieriq 1 22 4.0-ice-cream-sandwich 1 20 default-applications 1 20 rom 1 4 kernel 1 4 permissions 1 18
+18423 rooting 1 49 root-access 1 49
+103265 rooting 2 13 root-access 1 6 backup 1 7
+21 2.2-froyo 1 19 sms 1 19 notifications 1 19 handcent-sms 1 19 rooting 1 81
+29 2.2-froyo 1 6 sms 1 6 notifications 1 6 handcent-sms 1 6
+30 task-management 1 18 applications 1 77 alternative-markets 1 77
+43 task-management 1 4 nexus-one 1 8 user-interface 1 8 trackball 1 8
+37 task-management 1 88
+49 task-management 1 7 rooting 1 15
+31 apk 1 41 system-apps 1 41
+17770 apk 1 5 system-apps 1 5
+45 settings 1 8 data-monitoring 1 8 roaming 1 8 applications 1 4 uninstallation 1 4 wi-fi 1 12 security 1 12 encryption 1 12 browser 2 44 browser-add-ons 1 5 javascript 1 5 2.2-froyo 1 39 htc-desire 1 39
+50 settings 1 4 data-monitoring 1 4 roaming 1 4
+9 applications 2 15 uninstallation 1 4 google-play-store 1 11 motorola-droid 1 11 performance 1 11 factory-reset 1 11
+36 applications 1 13 uninstallation 1 13 sms 1 15 notifications 1 15 email 1 15 settings 1 15
+382 gps 1 4 freeware 1 4 productivity 1 4 to-do-list 1 4 battery-life 1 4 tasker 1 4
+267 gps 2 8 freeware 1 4 productivity 1 4 to-do-list 2 9 sync 3 20 dropbox 1 6 downloading 2 12 home-screen-shortcuts 1 6 notifications 1 5 2.3-gingerbread 2 10 2.2-froyo 1 5 notification-icons 1 5 alarm 2 9 browser 1 6 bookmarks 1 6 skype 1 10 samsung-galaxy-s 1 5 2.1-eclair 1 5 gmail 1 5 internal-storage 1 102 insufficient-memory 1 102 photos 1 8 automation 1 8 cloud 1 8 applications 4 44 security 4 46 geolocation 3 30 lost-phone 5 72 outlook 1 7 exchange 1 7 pop3 1 7 camera 2 16 zoom 1 11 focus 1 11 privacy 1 5 unrooting 1 5 backup 1 5 factory-reset 1 5 restore 1 5 contacts 1 15 sms 1 15 remote-control 1 15 launcher 1 13 default-applications 1 13 adw.launcher 1 13 nexus-one 1 6 user-interface 2 11 trackball 1 6 keyboard 1 5 sony-ericsson-xperia-x10 1 5 external-sd 1 17 performance 1 17 app2sd 1 17 motorola-droid-x 1 9 call-screening 1 9 google-play-store 2 18 apk 1 7 google-account 2 20 remote-wipe 2 20 samsung-galaxy-s-2 1 6 task-management 1 6 battery-life 1 6 voice-command 1 14 4.0-ice-cream-sandwich 1 94 updates 1 94 android-versions 1 94 lock-screens 1 5 malware 1 5 carrieriq 1 5 calls 1 8 podcast 1 5 itunes 1 5 hardware 1 6 headphone-jack 1 6 compatibility 1 6 4.2-jelly-bean 1 5 email 1 5 localization 1 11 google-maps 1 7
+91 settings 1 8 camera 1 8
+725 settings 1 4 camera 1 4
+1756 settings 1 9 camera 1 9
+3 security 1 7 lost-phone 1 7 authorization 1 7 applications 1 7 alternative-markets 1 7 2.2-froyo 1 8 htc-droid-incredible 1 8 ringtone 1 8 mp3 1 8 google-play-store 1 11 images 1 8 screenshots 1 8 camera 1 9 zoom 1 9 focus 1 9 widgets 1 8 rss 1 8 google-reader 1 8 samsung-galaxy-s 1 27 notifications 1 27 battery 1 27 audio 1 27 keyboard 1 8 bluetooth 1 8 sms 1 8 usb 1 8 malware 1 4 carrieriq 1 4
+6484 security 1 5 lost-phone 1 5 authorization 1 5
+140 rooting 2 26 wi-fi 1 4 2.1-eclair 1 4 wifi-tethering 1 4
+482 rooting 2 35 gps 3 32 google-maps 1 17 geolocation 1 17 ram 5 78 opera-mini 1 5 opera-mobile 1 5 samsung-galaxy-s 1 4 2.1-eclair 1 4 alarm 1 4 2.2-froyo 2 11 task-management 2 18 htc-desire-hd 1 6 screencast 1 4 root-access 3 59 password 1 41 sensors 1 8 screen-brightness 1 8 networking 2 34 internet 1 29 ip-address 1 29 applications 4 77 paid-apps 1 34 system 1 16 google-play-store 3 22 security 5 38 antivirus 1 9 2.3-gingerbread 1 5 samsung-nexus-s 2 10 music-player 1 5 voice-command 1 5 keyboard 3 20 external-display 1 8 google 1 4 accounts 1 4 privacy 1 4 sms 1 6 sync 1 6 notifications 1 6 battery-life 4 48 app2sd 2 20 search 1 5 screen 2 25 wallpaper 1 18 nfc 1 5 sd-card 1 8 backup 2 9 factory-reset 2 8 restore 1 4 text-input 1 6 hardware 1 39 performance 4 61 processor 1 39 home-screen 1 8 launcher 1 8 uninstallation 1 8 permissions 1 5 charging 3 32 battery 2 44 external-sd 2 25 volume-control 1 12 motorola-droid 1 4 samsung-galaxy-s-2 1 12 superuser 1 11 data-transfer 1 5 settings 2 10 adb 1 5 cyanogenmod 1 5 rom 2 10 kernel 1 5 4.1-jelly-bean 1 6 rom-flashing 2 11 partitions 1 6 lg-optimus-one 1 6 dalvik 1 11 custom-roms 1 5 linux 1 5 firefox 1 5 internal-storage 2 9 storage 1 5 sim-card 1 5
+1937 rooting 1 8
+304 samsung-galaxy-s 1 4 updates 1 4 samsung-kies 1 4
+156 samsung-galaxy-s 5 45 updates 2 12 samsung-kies 1 7 keyboard 2 28 customization 1 9 swype 2 17 applications 3 21 security 2 11 camera 2 28 front-camera 1 18 geolocation 1 10 photos 1 10 installation 2 46 android-x86 1 40 sync 2 23 files 1 17 file-transfer 1 17 wi-fi 1 11 2.2-froyo 1 7 sd-card 1 7 external-display 1 19 television 1 7 permissions 2 15 contacts 1 6 2.1-eclair 1 5 htc-magic 1 5 1.6-donut 2 16 battery-life 1 4 lock-screens 1 4 google 1 11 screenshots 1 7 google-plus 1 11 screen 1 6 automation 2 12 uninstallation 1 7 home-screen 1 12 documentation 1 14 command-line 1 6 scripts 1 6 input-methods 1 8 text-input 1 8 google-play-store 1 6 google-account 1 6 4.0-ice-cream-sandwich 1 4 gmail 1 4 facebook 1 7 launcher 1 7 facebook-home 1 7 tethering 1 30 mobile-network 1 30 calls 1 7 dialer 1 7
+63 productivity 1 6 gps 1 6 text-input 1 4 home-screen-shortcuts 1 5 downloading 1 5 remote-control 1 4 google-play-store 1 12 app-ratings 1 12
+137 productivity 1 8 gps 1 8 rooting 1 44 google-voice 2 9 applications 8 92 google-play-store 5 78 factory-reset 1 4 privacy 2 8 home-screen-shortcuts 1 7 downloading 1 7 2.2-froyo 5 24 battery 2 16 sync 5 38 itunes 1 16 printing 1 11 samsung-galaxy-s 2 16 ebook-reader 1 8 alarm 2 21 music-player 1 6 images 1 6 screenshots 1 6 hardware 1 7 camera-flash 1 7 google-account 1 6 qr-code 3 48 2.1-eclair 1 8 camera 1 11 photos 2 12 automation 2 12 cloud 2 12 widgets 1 8 rss 2 13 google-reader 2 13 files 1 28 shell 1 28 adb 1 28 security 2 8 permissions 1 4 gmail 2 12 pdf 1 8 settings 2 11 data-monitoring 2 8 notes 1 7 stylus 1 7 wi-fi 2 9 battery-life 2 55 charging 1 12 paid-apps 1 36 power-on 1 15 antivirus 1 4 search 1 11 screen 1 43 wallpaper 1 43 offline 1 7 google-tasks 1 7 home-screen 1 5 performance 1 4 notifications 1 4 filter 1 4 amazon-appstore 2 22 keyboard 1 5
+135 text-input 1 4 samsung-galaxy-s 2 15 2.1-eclair 3 22 keyboard 2 15 swype 1 7 outlook 1 4 exchange 1 4 pop3 1 4 applications 1 8 security 1 8 home-screen-shortcuts 1 8 lock-screens 1 8
+136 applications 1 9 alternative-markets 1 9 2.1-eclair 1 4 samsung-galaxy-s 2 12 keyboard 1 4 battery 2 13 sms 1 11 drafts 1 11 camera 1 8 calls 1 5 ringtone 1 5 missed-calls 1 5 silent-mode 1 5
+1420 applications 1 18 alternative-markets 1 18 security 1 22 privacy 1 22 ebook-reader 1 5 pdf 1 5 dropbox 1 5 charging 1 5
+2451 applications 1 105 alternative-markets 1 105
+3550 applications 3 83 alternative-markets 1 57 instant-messaging 1 6 xmpp 1 6 open-source 1 20 samsung-galaxy-s 1 6 launcher 1 6 samsung-touchwiz 1 6 contacts 1 7 sync 1 7 google-play-store 1 34 apk 1 34 documentation 1 9
+7890 applications 1 9 alternative-markets 1 9
+39344 applications 1 4 alternative-markets 1 4
+16575 applications 11 322 alternative-markets 2 15 printing 1 6 networking 3 52 internet 2 14 files 1 116 shell 5 147 adb 7 209 google-play-store 12 152 security 7 79 home-screen 1 5 launcher 1 5 uninstallation 1 5 contacts 1 8 sync 4 23 apk 3 43 browser 3 15 dns 1 5 logging 2 63 usb 1 4 battery-life 4 63 usb-debugging 2 13 4.0-ice-cream-sandwich 2 9 default-applications 1 4 malware 2 42 airpush 1 8 2.2-froyo 1 5 google-maps 1 5 intents 2 16 disable-app 1 5 auto-start 1 5 settings 3 46 languages 1 7 locale 1 7 permissions 6 88 backup 6 63 data-transfer 1 15 titanium-backup 1 6 sms 1 8 alarm 2 12 screen 1 11 nexus-7 1 11 htc-desire 1 6 bandwidth 1 6 internal-storage 2 53 insufficient-memory 2 53 acer-iconia-a500 1 20 cache 1 14 wi-fi 2 12 battery 3 22 data-connection 2 18 2g 1 8 roaming 1 4 signal 1 14 samsung-galaxy-s-3 2 34 bootloader 2 21 unbricking 1 17 4.1-jelly-bean 1 6 rom-flashing 2 22 partitions 2 12 lg-optimus-one 1 6 google 2 18 cloud 1 7 tasker 2 14 proxy 1 5 scripts 1 12 samsung-galaxy-tab-2-10.1 1 5 charging 1 8 samsung-galaxy-nexus 1 7 automation 1 7 youtube 1 7 auto-rotation 1 7 gmail 2 15 calendar 2 11 system-error 1 12 sony-xperia-arc 1 12 compatibility 2 13 system-info 2 11 wakelock 1 37 sd-card 2 14 file-permissions 1 8 bash 1 8 dialer-codes 1 28 lock-screens 2 67 locked-out 1 63 2.3-gingerbread 1 4 samsung-galaxy-s 1 4 reboot 1 4 rom 1 16 root-access 2 20 system 1 6 resource-monitoring 1 6 updates 2 9 hardware-requirements 1 4 email 1 4 to-do-list 1 4 cyanogenmod 2 25 linux 1 7 google-account 1 7 restore 1 7 google-apps 1 7 google-backup 1 7 installation 2 43 factory-reset 1 11 paid-apps 2 22 privacy 3 54 twrp 1 13 external-sd 1 33 apn 1 4 terminal 2 16 file-system 2 99 storage 2 97 notifications 1 5 calls 1 6 silent-mode 1 6 mute 1 6 rooting 1 6 stock-rom 1 6 samsung-stellar 1 6 side-loading 1 7 4.3-jelly-bean 1 5 nfc 1 5 recovery-mode 2 13 offline 1 4 file-transfer 1 6 screen-brightness 1 7 5.0-lollipop 1 11 geolocation 1 11 location-services 2 28 mount 1 6 command-line 1 6 samsung 2 24 fastboot 2 26 calibration 1 6 6.0-marshmallow 2 32 share-menu 1 11 android-x86 1 9 emulators 1 9 7.0-nougat 1 4 mobile-network 1 4
+22 2.2-froyo 1 4 htc-droid-incredible 1 4 ringtone 1 4 mp3 1 4
+1417 2.2-froyo 2 28 htc-droid-incredible 1 23 ringtone 1 23 mp3 1 23 settings 1 5 data-monitoring 1 5 ads 1 15 applications 1 8 security 1 8 browser 1 8 malware 1 8 kiosk-mode 1 8 development 1 18
+116 rooting 1 107 motorola-droid 1 14 battery 1 14 charging 1 14 car-dock 1 14
+47 rooting 1 15
+17637 linux 1 14 shell 1 14
+1299 linux 1 6 shell 1 6
+1372 linux 1 10 shell 1 10
+6235 linux 1 11 shell 1 11
+57 google-play-store 1 22 applications 1 7 security 1 7
+6365 google-play-store 1 12
+143 google-play-store 1 26
+80 security 1 14 antivirus 1 14
+56 security 1 12 antivirus 1 12
+12453 security 1 10 antivirus 1 10
+464 applications 1 4 google-play-store 1 4
+34 backup 1 22 restore 1 22 remote-control 1 22
+727 backup 1 5 restore 1 5 remote-control 1 5
+1465 backup 1 17 restore 1 17 remote-control 1 17 lock-screens 3 31 screencast 1 8 wi-fi 2 13 usb 3 19 tethering 1 8 samsung-galaxy-s 5 62 samsung-kies 1 6 windows 1 6 google-play-store 5 44 motoblur 1 4 motorola-defy 1 4 networking 1 17 internet 1 17 ipv6 1 17 2.2-froyo 3 22 htc-legend 1 4 google 1 4 accounts 1 4 privacy 3 18 security 6 39 sms 3 13 sync 3 15 notifications 1 4 htc-desire 4 36 alarm 2 27 verizon 1 5 navigation 1 5 google-maps-navigation 1 5 installation 4 21 barcode 1 6 applications 9 96 home-screen-shortcuts 1 4 3g 1 5 data-connection 1 5 screenshots 2 12 email 3 14 calendar 1 6 lost-phone 1 6 remote-wipe 1 6 hardware 1 16 performance 1 16 ram 1 16 processor 1 16 tablet 1 23 3.0-honeycomb 1 23 dropbox 1 4 htc-sense 1 4 htc-desire-hd 1 4 vanilla-android 1 4 factory-reset 2 13 reformat 1 8 rooting 2 10 malware 1 5 boot 1 9 shell 2 13 scripts 1 9 uninstallation 1 55 system 2 75 bloatware 1 55 gps 2 45 launcher 1 7 samsung-touchwiz 1 7 paid-apps 1 8 calls 2 26 touchscreen 1 4 amazon-appstore 1 25 attachments 1 4 permissions 1 10 emergency-calls 1 22 date-and-time 1 7 gmail 3 13 2.3-gingerbread 2 9 battery-life 1 5 charging 1 5 keyboard 1 5 sony-ericsson-xperia-x10 1 5 apk 1 6 auto-start 1 15 custom-roms 2 154 dalvik 1 27 cache 2 33 linux 2 9 loopback 1 4 default-applications 1 5 external-sd 2 17 languages 1 4 hebrew 1 4 samsung-galaxy-s-2 1 4 user-interface 1 4 command-line 1 5 facebook 1 4 motorola-milestone 1 4 adb 1 13 storage 2 19 file-system 1 5 mount 1 5 cyanogenmod 3 17 root-access 2 12 rom 2 147 rom-flashing 1 127 titanium-backup 1 20 audio 1 4 samsung-galaxy-nexus 1 4 microphone 1 4 wifi-password 1 13 htc-evo 1 5 clockworkmod-recovery 1 5 recovery-mode 1 5 google-account 1 4 5.0-lollipop 1 4 recent-apps-list 1 4 internal-storage 1 6 offline 1 4 terminal 1 4 file-permissions 1 4 es-file-explorer 1 8
+981 backup 1 11 restore 1 11 remote-control 2 17 adb 3 128 root-access 3 102 rooting 1 4 htc-evo 2 16 custom-roms 3 53 settings 3 45 browser 1 14 user-agent-string 1 14 htc-sense 1 6 htc-desire-hd 1 6 vanilla-android 1 6 odex 1 39 2.2-froyo 1 7 linux 1 9 loopback 1 9 applications 3 40 amazon-appstore 1 11 drm 1 11 google-play-store 5 48 3.0-honeycomb 1 4 app-ratings 1 4 ssh 2 50 android-versions 1 46 uninstallation 1 26 delete 1 26 notification-icons 2 20 samsung-droid-charge 1 8 security 1 5 certificates 1 5 updates 1 10 home-screen 2 39 usb 2 41 battery-life 1 30 usb-debugging 1 30 4.0-ice-cream-sandwich 2 104 encryption 1 26 amazon-kindle-fire 1 11 images 1 11 wallpaper 1 11 superuser 1 32 automation 1 11 command-line 1 11 scripts 1 11 rom-flashing 2 17 offline 1 7 google-play-music 1 7 system 2 25 copy-paste 1 21 recent-apps-list 1 78 bluetooth 1 6 google-drive 1 6 dialer 1 11 charging 1 6 samsung-galaxy-tab-10 1 6 gmail 1 12 google-account 1 12 privacy 1 12 wifi-password 1 9 cyanogenmod 3 40 installation 1 12 clockworkmod-recovery 1 12 recovery-mode 1 12 busybox 1 10 keyboard 1 6 tablet 1 6 hardware 1 4 screen 1 4 nexus-7 2 8 home-screen-shortcuts 1 13 rom-manager 1 10 shell 1 5 terminal 1 5 system-apps 1 67 samsung-galaxy-s-3 1 5 gps 1 5 gps-tracking 1 5 file-system 1 30 clock 1 4
+192 motorola-droid 1 5 battery 1 5 charging 1 5 car-dock 1 5
+33 streaming 1 4 television 1 4 netflix 1 4
+787 streaming 1 5 television 1 5 netflix 1 5
+2422 streaming 1 12 television 1 12 netflix 1 12 applications 1 17 compatibility 1 17 java 1 17 rooting 1 4 htc-evo 1 4 custom-roms 1 4 home-screen 1 4 htc-sense 1 4 htc-desire-hd 1 4 vanilla-android 1 4 email 1 6 k9-mail 1 6 samsung-galaxy-s 1 5 samsung-nexus-s 1 5 lock-screens 1 21 calls 1 21 emergency-calls 1 21 sd-card 1 20 browser 1 20 files 1 20 installation 1 5 apk 1 5
+185 factory-reset 1 4 privacy 1 4 google-play-store 1 6 3.0-honeycomb 1 6 app-ratings 1 6
+330 wi-fi 1 15 security 1 15 encryption 1 15
+503 gps 1 14 offline 1 14 maps 1 14
+5132 gps 1 24 offline 1 24 maps 1 24 privacy 1 15 profiles 1 15 user-interface 1 15 multi-user 1 15 cyanogenmod 2 15 wi-fi 1 11 sony-xperia 1 11 google-keep 1 4 samsung-galaxy-s-2 1 4 partitions 1 4
+501 gps 1 4 offline 1 4 maps 1 4 ankidroid 1 9 data-transfer 1 8 line 1 8
+222 languages 1 8 localization 1 8 hebrew 1 8
+531 languages 1 11 localization 1 11 hebrew 1 11 applications 1 17 2.2-froyo 1 17 application-autoupdate 1 17
+86 media-player 1 5 dlna 1 5 applications 1 14 sd-card 1 14 app2sd 1 14 root-access 1 9 password 1 9 htc-desire 2 8 car-dock 1 4 docking-station 1 4 nexus-one 1 7 usb 1 7 battery 1 7 charging 1 7 alarm 1 4 date-and-time 1 4
+2974 media-player 1 5 dlna 1 5
+34927 browser 1 11 browser-add-ons 1 11 javascript 1 11
+15 applications 3 30 battery 1 7 battery-life 1 7 google-play-store 3 21 updates 1 10 google-drive 1 5 browser 2 24 sync 2 14 bookmarks 2 13 firefox 1 4 2.2-froyo 1 15 htc-desire 1 15 internal-storage 1 27 performance 1 27 insufficient-memory 1 27 google-account 1 5 contacts 1 9 photos 1 9 audio 1 6 volume-control 1 6 keyboard 1 10 google-talk 1 4 recent-apps-list 1 4 verizon 1 5 navigation 1 5 google-maps-navigation 1 5 installation 1 13 apk 1 13 nexus-7 1 6
+177 applications 1 4 battery 1 4 battery-life 1 4 sms 1 6 notifications 1 6 email 1 6 settings 1 6
+540 applications 1 8 battery 1 8 battery-life 1 8
+65 samsung-galaxy-s 1 13 reboot 1 13 qr-code 1 15
+197 samsung-galaxy-s 1 11 reboot 1 11
+7585 samsung-galaxy-s 1 4 reboot 1 4
+8292 samsung-galaxy-s 1 4 reboot 1 4
+5197 sync 1 9 dropbox 1 9 downloading 1 9
+19 share-menu 1 12 applications 2 30 compatibility 1 12 java 1 12 google-play-store 1 18
+2633 share-menu 1 15
+335 share-menu 1 5 ssh 1 17 command-line 1 17 ads 1 4
+79 search 1 8
+81 search 1 7
+316 remote-control 1 6 cyanogenmod 1 6 custom-roms 1 6 alarm 1 5 music-player 1 5 google-maps 1 8
+201 ssh 1 12 command-line 1 12 offline 1 10 maps 1 10
+6181 ssh 1 5 command-line 1 5
+46332 ssh 1 5 command-line 1 5
+219 keyboard 1 10 samsung-galaxy-s 4 31 customization 1 10 swype 1 10 ebook-reader 1 7 applications 3 18 2.2-froyo 3 14 application-autoupdate 1 5 2.1-eclair 1 8 sync 2 19 photos 1 14 automation 1 14 cloud 1 14 google-talk 1 4 sd-card 1 5 battery 2 24 camera 1 6 battery-life 1 18 charging 1 18 sms 1 5 notifications 1 5 screenshots 1 10 wi-fi 1 4 tethering 1 4 wifi-tethering 1 4 usb-tethering 1 4
+7394 keyboard 1 8 samsung-galaxy-s 1 8 customization 1 8 swype 1 8
+363 2.2-froyo 1 5 battery 1 5
+365 2.2-froyo 1 8 battery 1 8
+251 sync 1 4 itunes 1 4
+158 sync 1 5 itunes 1 5
+11044 sync 1 4 itunes 1 4
+386 battery-life 1 4 tasker 1 4
+2259 battery-life 1 5 tasker 2 11 settings 1 6 locale 1 6 automation 1 6
+237 printing 1 10
+412 browser 1 6 internet 1 6 google-drive 1 18 offline 1 13 maps 1 13
+14080 browser 1 4 internet 1 4 battery 1 12
+927 dialer-codes 1 4
+15713 dialer-codes 1 16 samsung-galaxy-s 1 4 gps 2 18 file-transfer 2 16 4.0-ice-cream-sandwich 1 6 encryption 1 12 recovery-mode 2 22 settings 1 11 calls 1 11 privacy 1 11 wi-fi 2 12 security 2 15 command-line 1 10 custom-roms 1 10 rom-flashing 1 10 applications 3 26 google-play-store 1 8 samsung-galaxy-nexus 1 23 nfc 1 23 samsung-galaxy-s-3 1 10 search 1 10 bluetooth 1 7 bluetooth-le 1 7 accounts 1 11 offline 1 14 maps 1 14 offline-map 1 14 ios 1 7 antivirus 1 7 signal 1 17 battery-life 1 17 sync 1 6 gmail 1 6 calendar 1 6 4.2-jelly-bean 1 10 nexus-4 1 10 mtp 1 10 file-properties 1 10 side-loading 1 9
+11209 dialer-codes 1 5 applications 1 4 rom 2 11 system 1 4 titanium-backup 1 4 keyboard 1 30 notifications 1 30 4.0-ice-cream-sandwich 1 30 sim-unlocking 1 12 nexus-4 1 12 adb 2 23 2.3-gingerbread 1 5 sd-card 2 14 internal-storage 1 5 storage 1 5 insufficient-memory 1 5 google-play-store 1 15 security 1 15 apk 1 15 shell 1 9 file-permissions 1 9 bash 1 9 nexus-7 1 4 buttons 1 4 menu 1 4 toast-notifications 1 6 rom-flashing 1 7 root-access 1 7
+7554 video 1 4 google-talk 1 4 video-conference 1 4 sync 1 9 cloud 1 9 copy-paste 1 9 contacts 1 4 sms 1 4 calendar 1 4 data-transfer 1 4 samsung-galaxy-s 1 10 usb 1 10 hardware 1 10 charging 1 10
+170 applications 1 13 google-play-store 1 13 updates 1 13 internal-storage 1 6 performance 1 6 insufficient-memory 1 6 settings 1 7 browser 1 7 user-agent-string 1 7 ebooks 1 4 kindle-for-android 1 4
+693 offline 1 5 maps 1 5 ram 1 5 linux 1 8 file-system 1 8 partitions 1 8 command-line 1 8 swap 1 8
+1279 offline 1 7 maps 1 7 samsung-galaxy-s 1 14 usb 1 14 samsung-kies 1 14 windows 1 14
+344 offline 1 5 maps 1 5 screenshots 1 6
+157717 notifications 1 9 2.3-gingerbread 1 9 2.2-froyo 1 9 notification-icons 1 9 alarm 1 9
+315 calls 1 24 call-recording 1 24
+401 calls 1 8 call-recording 1 8 browser 1 5
+13112 wi-fi 1 12 root-access 1 12 cifs 1 12
+4229 wi-fi 1 10 root-access 1 10 cifs 1 10 external-sd 1 9
+11986 wi-fi 1 5 root-access 1 5 cifs 1 5
+475 browser 3 24 sync 1 8 bookmarks 1 8 images 1 21 screenshots 1 21 wi-fi 1 5 google 1 5 data-monitoring 1 5 privacy 2 18 gps 1 11 gps-tracking 1 11 maps 1 11 offline-map 1 11 samsung-galaxy-s 1 5 sms 1 5 attachments 1 5 home-screen-shortcuts 1 4 home-screen-folders 1 4 uninstallation 2 29 delete 1 12 cyanogenmod 1 6 adb 1 6 ssh 1 6 bash 1 6 internet 2 22 shell 1 11 dns 1 11 ringtone 1 6 google-play-music 1 6 logging 1 61 4.0-ice-cream-sandwich 3 35 recent-apps-list 1 21 samsung-galaxy-tab 1 5 shutdown 1 5 remote-control 1 5 htc-one-s 1 5 ram 1 5 samsung-galaxy-s-3 2 14 samsung-galaxy-nexus 2 12 nfc 1 7 settings 1 9 charging 1 9 screen 1 9 4.2-jelly-bean 1 6 daydream 1 6 samsung-nexus-10 1 6 whatsapp-messenger 1 23 viber 1 5 apn 1 7 android-sdk 1 10 android-emulator 1 10 samsung-galaxy-s-2 1 7 hardware 1 7 unbricking 1 7 applications 1 17 mobile-network 1 11 sony-xperia 1 11 dual-sim 1 11 permissions 1 13
+354 browser 1 7 sms 1 12
+199 images 1 16 screenshots 1 16 applications 1 11 2.2-froyo 1 11 application-autoupdate 1 11 google-play-store 1 8 sync 1 8 google-account 1 8
+2113 images 1 7 screenshots 1 7 samsung-galaxy-tab 1 4 charging 1 4
+6617 images 1 10 screenshots 1 10
+8522 images 1 4 screenshots 1 4 browser 1 14 internet 1 14 shell 1 14 dns 1 14
+8561 images 1 5 screenshots 1 5
+2241 images 1 50 screenshots 1 50 applications 1 20 push-notifications 1 20 google-pixel 1 14
+7936 images 1 15 screenshots 1 15
+7034 images 1 5 screenshots 1 5
+10787 images 1 11 screenshots 1 11
+4003 images 1 10 screenshots 1 10 wi-fi 2 10 wifi-hotspot 1 6 offline 1 5 google-maps-navigation 1 5 4.0-ice-cream-sandwich 1 12 htc-sense 1 12 htc-vivid 1 12 cache 1 27 cyanogenmod 1 24 rom 2 29 kernel 1 24 security 3 17 lock-screens 1 7 logging 1 5 samsung-galaxy-nexus 1 4 4.1-jelly-bean 1 4 samsung-galaxy-s-3 1 9 bootloader 2 31 unbricking 1 9 sms 1 5 battery-life 1 6 wakelock 1 6 system 1 48 tech-specs 1 48 4.2-jelly-bean 1 4 user-interface 1 4 usb 1 22 boot 1 22 usb-host-mode 1 22 usb-peripherals 1 22 dalvik 1 4 external-sd 1 5 internal-storage 1 5 insufficient-memory 1 5 vanilla-android 1 5 aokp 1 5
+20843 images 1 6 screenshots 1 6
+1813 images 1 5 screenshots 1 5
+131553 images 1 5 screenshots 1 5 battery 1 11 calibration 1 11 5.0-lollipop 1 4 updates 1 4 root-access 1 4 ota-update 1 4 google 2 13 custom-roms 1 5 rom 1 5 stock-rom 1 5 vanilla-android 1 5 clockworkmod-recovery 1 6 nandroid 1 6 lock-screens 1 5 malware 1 5 applications 2 27 google-play-store 1 18 instant-apps 1 18 google-play-music 1 8 mp3 1 8 settings 1 9 6.0-marshmallow 1 10 ram 1 10 adb 1 6 huawei 1 6 usb-drivers 1 6 android-x86 1 5 compatibility 1 5 emulators 1 5 cyanogenmod 1 8 rom-flashing 1 8 motorola 1 8 lineageos 1 8 samsung 1 5 charging 1 5 notifications 1 9 8.0-oreo 1 9 nokia-8 1 9 7.0-nougat 1 5 mobile-network 1 5 google-account 1 5 imei 1 5
+440 sms 1 5 sync 1 4 files 1 4 file-transfer 1 4 samsung-galaxy-s 3 20 gps 2 25 applications 3 21 auto-start 1 4 media-player 1 7 mp3 1 7 mp3-player 1 7 security 2 21 google-account 1 10 lost-phone 1 10 remote-wipe 1 10 wi-fi 1 13 data-connection 1 13 mms 1 13 contacts 1 6 cyanogenmod 3 23 usb 1 9 reverse-tether 1 9 adb 1 6 storage 1 6 logging 1 12 file-system 1 19 mount 1 19 gps-tracking 1 16 home-screen 1 4 power-on 1 4 calls 1 13 call-screening 1 13 rooting 1 11 amazon-kindle-fire 1 11 gmail 2 52 video-calling 1 12 chat 1 12 xmpp 1 12 open-source 1 9 drm 1 9 dolphin-browser 1 4 4.0-ice-cream-sandwich 1 5 htc-sense 1 5 htc-vivid 1 5 bluetooth 1 4 bluetooth-le 1 4 google-play-store 1 44 installation 1 44 google-maps 1 44 google-apps 1 44 dropbox 1 11 sensors 1 7 htc-one-v 1 7 samsung-galaxy-nexus 1 7 4.1-jelly-bean 1 7 proximity-sensor 1 12 updates 1 7 rom-flashing 1 5 custom-roms 1 5 linux 1 5 rom 1 5 firefox 1 5 battery 1 22 ram 1 22
+75 samsung-galaxy-s 1 6 camera 1 6 front-camera 1 6
+176 samsung-galaxy-s 1 4 camera 1 4 front-camera 1 4
+798 sync 1 6 google-account 1 6 google-talk 1 9
+113 samsung-galaxy-s 1 6 audio 1 6
+428 samsung-galaxy-s 1 8 audio 1 8
+646 skype 1 27
+270 applications 1 12 side-loading 1 12
+660 applications 1 5 side-loading 1 5
+602 applications 1 5 2.2-froyo 1 5 application-autoupdate 1 5
+139 applications 1 7 google-play-store 1 7 samsung-galaxy-s 1 7 sms 1 18 backup 1 18 restore 1 18
+46018 applications 1 7 google-play-store 1 7 samsung-galaxy-s 1 7
+98 samsung-galaxy-s 1 12 2.1-eclair 2 24 keyboard 1 12 swype 1 12
+1856 samsung-galaxy-s 1 5 2.1-eclair 2 10 keyboard 1 5 swype 1 5
+2340 2.2-froyo 1 10 htc-desire 1 10 browser 1 10
+126934 applications 1 7 networking 1 13 internet 1 13 usb 1 16 adb 1 16 camera 1 16 htc-desire-hd 1 16 screen-sharing 1 16
+594 samsung-galaxy-s 2 14 2.1-eclair 1 4 gmail 1 4 google-play-store 3 42 sync 1 5 google-account 1 5 app-ratings 1 8 paid-apps 1 29 sms 1 10 attachments 1 10 2.2-froyo 2 8 contacts 1 4 search 1 4
+128812 camera 1 6
+423 internal-storage 1 12 insufficient-memory 1 12
+1250 internal-storage 1 4 insufficient-memory 1 4 applications 1 4 notes 1 4 stylus 1 4 audio 1 6 volume-control 1 6 2.3-gingerbread 2 9 samsung-nexus-s 1 5 music-player 1 5 voice-command 1 5 contacts 1 11 sms 1 11 remote-control 1 11 external-sd 3 59 custom-roms 1 18 partitions 2 23 link2sd 1 18 google-play-store 1 13 security 1 13 home-screen 1 13 launcher 1 13 uninstallation 1 13 factory-reset 1 5 reformat 1 5 app2sd 1 5 ext3 1 5 updates 1 9 stock-android 1 4 gallery 1 4 default-applications 1 4 sony-xperia-active 1 4 rooting 2 20 settings 1 4 samsung-galaxy-nexus 1 4 vibration 1 4 stock-rom 1 4 samsung-stellar 1 4
+3371 internal-storage 1 8 insufficient-memory 1 8
+9498 internal-storage 1 6 insufficient-memory 1 6
+708 performance 1 9 cyanogenmod 1 9 system 1 9
+307 performance 1 4 cyanogenmod 1 4 system 1 4 settings 1 4 silent-mode 1 4 usb 1 15 charging 1 15
+468 applications 1 4 instant-messaging 1 4 xmpp 1 4
+297 sync 1 22 photos 1 22 automation 1 22 cloud 1 22
+789 gps 1 17 google-maps 1 17 geolocation 1 17
+121 backup 1 26 angry-birds 1 26 applications 1 13 google-play-store 1 10
+3604 backup 1 7 angry-birds 1 7
+4767 backup 1 38 angry-birds 1 38 compass 1 29
+5077 backup 1 4 angry-birds 1 4
+877 applications 1 14 open-source 1 14
+820 sms 1 18 backup 1 18 restore 1 18
+793 applications 1 6 security 1 6 geolocation 1 6 lost-phone 1 6 calls 1 5 ringtone 1 5 missed-calls 1 5 silent-mode 1 5 contacts 1 4 sms 1 4 calendar 1 4 data-transfer 1 4
+922 gmail 1 8 google-account 1 8 accounts 1 8
+196 gmail 1 4 google-account 1 4 accounts 1 4 rom-flashing 1 5 custom-roms 1 5 viewsonic-gtablet 1 5
+1460 qr-code 1 23
+26 lost-phone 1 11 internal-storage 1 4 adb 1 4 installation 1 4 apk 1 4 insufficient-memory 1 4
+67 opera-mini 1 24 opera-mobile 1 24
+2679 opera-mini 1 4 opera-mobile 1 4
+1072 samsung-galaxy-s 1 6 2.1-eclair 1 6 alarm 1 6
+371 battery 2 51 battery-life 1 36 charging 1 36
+20 2.2-froyo 1 8 task-management 1 8 htc-desire-hd 1 8
+1455 samsung-galaxy-s 1 17 notifications 1 17 battery 1 17 audio 1 17
+4843 samsung-galaxy-s 1 9 notifications 1 9 battery 1 9 audio 1 9
+11416 samsung-galaxy-s 1 5 notifications 1 5 battery 1 5 audio 1 5
+539 samsung-galaxy-s 1 4 notifications 1 4 battery 1 4 audio 1 4
+792 lock-screens 1 4 applications 1 5 email 1 5 sms 1 5
+1516 sms 1 7 drafts 1 7
+994 networking 1 121 internet 1 121
+24318 battery 1 6 battery-life 1 6 charging 1 6
+18442 applications 1 6 files 1 6 shell 1 6 adb 1 6
+1144 2.2-froyo 1 13 sync 1 13 security 1 13 encryption 1 13 privacy 1 13
+3902 2.2-froyo 1 4 sync 1 4 security 1 4 encryption 1 4 privacy 1 4
+1204 wi-fi 1 7 usb 1 7 tethering 1 7 amazon-appstore 1 10
+63889 wi-fi 1 24 usb 1 24 tethering 1 24
+1205 keyboard 1 4 bluetooth 1 4 sms 1 4 usb 1 4 external-sd 1 31 performance 1 31 app2sd 1 31
+1163 samsung-galaxy-s 1 6 usb 1 6 samsung-kies 1 6 windows 1 6 sensors 1 15 screen-brightness 1 15 2.2-froyo 1 5 gmail 1 5 pdf 1 5
+1306 contacts 1 6 photos 1 6
+1518 security 1 5 permissions 1 5 malware 1 5 privacy 1 5 sandboxing 1 5
+6362 security 1 19 permissions 1 19 malware 1 19 privacy 1 19 sandboxing 1 19
+1309 security 4 38 permissions 4 38 malware 3 24 privacy 4 38 sandboxing 3 24 applications 1 14
+6476 security 1 9 permissions 1 9 malware 1 9 privacy 1 9 sandboxing 1 9
+67167 security 1 13 permissions 1 13 malware 1 13 privacy 1 13 sandboxing 1 13
+921 camera 1 4 geolocation 1 4 photos 1 4
+1405 sync 1 8
+6052 sync 1 4 security 1 26 google-account 1 26 lost-phone 1 26 remote-wipe 1 26 rooting 1 6 battery-life 1 6 remote-control 1 6 htc-one-s 1 6 calls 1 5 water-damage 1 18 offline 1 7 google-maps-navigation 1 7 sms 1 8 alarm 1 8 keyboard 1 16 4.2-jelly-bean 1 16 auto-correct 1 16 backup 1 6 data-transfer 1 6
+2002 installation 1 6 android-x86 1 6
+836 installation 1 8 android-x86 1 8
+4892 installation 1 4 android-x86 1 4
+1448 sync 1 17 cloud 1 17 copy-paste 1 17
+739 sync 1 15 cloud 1 15 copy-paste 1 15
+18437 sync 1 8 cloud 1 8 copy-paste 1 8
+19194 sync 1 4 cloud 1 4 copy-paste 1 4
+54980 sync 1 5 cloud 1 5 copy-paste 1 5
+54997 sync 1 5 cloud 1 5 copy-paste 1 5
+166637 sync 1 4 cloud 1 4 copy-paste 1 4
+912 motoblur 1 6 motorola-defy 1 6
+1564 networking 1 5 internet 1 5 ip-address 1 5
+13576 networking 1 7 internet 1 7 ip-address 1 7
+12711 networking 2 17 internet 1 7 ipv6 1 7 auto-correct 1 4 dictionary 1 4 samsung-galaxy-ace 1 10 gsm 1 10
+366 2.2-froyo 1 5 htc-legend 1 5
+1576 wi-fi 1 9
+3190 applications 1 19 paid-apps 1 19 2.3-gingerbread 1 6 samsung-galaxy-s-2 1 6 user-interface 1 6
+1683 system 1 5
+1751 wifi-hotspot 1 7 wifi-tethering 1 7 htc-dream 1 7
+706 wifi-hotspot 1 5 wifi-tethering 1 5 htc-dream 1 5
+1816 google-play-store 1 9 paid-apps 1 9
+2292 power-on 1 12 alarm 1 12
+965 keyboard 1 6
+1274 calls 1 10 ringtone 1 10 missed-calls 1 10 silent-mode 1 10 keyboard 1 17 external-display 1 17 battery-life 1 6 gps 1 6 settings 1 10 samsung-galaxy-s 1 7 television 1 7 rooting 1 26 security 1 26
+1884 wi-fi 1 4 browser 1 4 google 1 4 data-monitoring 1 4 privacy 1 4
+6234 external-sd 1 5 ext4 1 5
+15428 external-sd 1 4 ext4 1 4
+15073 keyboard 1 4 external-display 1 4
+2091 google-talk 1 4 recent-apps-list 1 4
+2056 htc-sense 1 6 performance 1 6 screen 1 6 htc-desire-hd 1 6
+2171 sms 1 12 sync 1 12 notifications 1 12
+16327 sms 1 4 sync 1 4 notifications 1 4
+2144 htc-desire 1 5 alarm 1 5 applications 1 11 tablet 1 11 3.0-honeycomb 1 11
+1978 verizon 1 5 navigation 1 5 google-maps-navigation 1 5
+2236 security 1 10 gmail 1 10
+2721 security 1 9 gmail 1 9
+2165 app2sd 1 11 google-play-store 1 5 google-account 1 5 accounts 1 5
+2293 app2sd 1 4 installation 1 12 barcode 1 12
+1863 wi-fi 1 10 settings 1 10
+155 wi-fi 1 4 settings 1 4 rooting 1 4 nexus-one 1 4 broken-screen 1 4 security 1 11 google-account 1 11 lost-phone 1 11 remote-wipe 1 11 calls 1 6 call-screening 1 6
+8244 google-play-store 1 21 google-account 1 21 accounts 1 21 4.0-ice-cream-sandwich 1 4 volume-control 1 4 samsung-galaxy-nexus 1 4 charging 1 9 samsung-galaxy-tab-10 1 9
+2274 installation 1 17 barcode 1 17 2.2-froyo 1 4 samsung-galaxy-s 1 4 screen-timeout 1 4
+2322 gps 1 12
+2192 applications 1 5 security 1 5 home-screen-shortcuts 1 5 lock-screens 1 5
+2413 battery-life 1 17 screen 1 17 wallpaper 1 17
+3919 samsung-nexus-s 1 8 nfc 1 8
+2103 sd-card 1 5
+1338 storage 1 11 file-system 1 11 partitions 1 11
+43847 storage 1 6 file-system 1 6 partitions 1 6
+34998 storage 1 26 file-system 1 26 partitions 1 26
+165275 storage 1 4 file-system 1 4 partitions 1 4
+2457 battery 1 8 usb 1 8 charging 1 8 hardware 1 4 performance 1 4 ram 1 4 processor 1 4 cyanogenmod 1 4 custom-roms 1 4 backup 1 4
+2433 battery 1 61 usb 1 61 charging 1 61 2.2-froyo 1 6 samsung-galaxy-s 1 6 screen-timeout 1 6 adb 1 4 linux 1 4 file-transfer 1 4
+1645 3g 1 9 data-connection 1 9 wi-fi 1 9
+2471 3g 1 4 data-connection 1 4 wi-fi 1 4
+2077 offline 1 6 google-tasks 1 6
+2890 offline 1 5 google-tasks 1 5
+1951 applications 5 31 email 1 5 sms 2 15 screenshots 2 24 compatibility 1 9 java 1 9 sensors 1 5 screen-brightness 1 5 launcher 1 9 default-applications 1 9 adw.launcher 1 9 keyboard 1 4 text-input 1 4 2.1-eclair 1 10 samsung-galaxy-apollo 1 10 mms 1 10 google-play-store 1 4 rooting 3 19 factory-reset 1 4 malware 1 4 privacy 2 16 profiles 1 8 user-interface 1 8 multi-user 1 8 samsung-galaxy-s 1 8 samsung-nexus-s 1 8 super-amoled 1 8 accounts 1 9 lock-screens 1 6 google 1 5 permissions 2 10 cyanogenmod 2 16 htc-chacha 1 6 nexus-one 1 9 broken-screen 1 9 screen-resolution 1 6 installation 1 10 root-access 1 10 4.0-ice-cream-sandwich 4 52 youtube 1 17 multitasking 1 17 samsung-galaxy-s-2 2 12 reboot 1 6 2.2-froyo 1 16 google-maps 1 16 intents 1 16 disable-app 1 16 auto-start 1 16 samsung-galaxy-nexus 1 5 ios 1 5 angry-birds 1 5 contacts 1 12 filter 1 12 settings 2 25 calls 1 8 samsung-galaxy-s-3 1 17 charging 1 17 screen 1 17 data-monitoring 1 4 background-data 1 4 backup 1 243 5.0-lollipop 1 5 recent-apps-list 1 5 mount 1 4 partitions 1 4 command-line 1 4
+938 applications 1 11 installation 1 11 apk 1 11
+1463 sensors 1 5 screen-brightness 1 5
+56143 adb 1 15 root-access 1 15
+2502 dialer 1 4
+11084 dialer 1 4
+5156 contacts 1 4 sms 1 4 remote-control 1 4
+12946 google-maps 1 7 cache 1 7
+334 keyboard 1 4 text-input 1 4
+1926 applications 1 12 security 1 12 lost-phone 1 12 remote-wipe 1 12
+3001 applications 1 10 tablet 1 10 3.0-honeycomb 1 10 hardware 1 5 terminal 1 5 processor 1 5
+790 applications 1 5 tablet 1 5 3.0-honeycomb 1 5
+2973 dropbox 1 5 hardware 1 20 terminal 1 20 processor 1 20 nexus-one 1 12 user-interface 1 12 trackball 1 12
+5212 dropbox 1 7
+3116 2.1-eclair 1 4 sms 1 4 samsung-galaxy-apollo 1 4 mms 1 4 2.3-gingerbread 1 5 htc-droid-incredible 1 5 ota-update 1 5 root-access 1 5
+6779 hardware 1 13 terminal 1 13 processor 1 13
+2474 external-sd 1 6 custom-roms 1 6 partitions 1 6 link2sd 1 6 root-access 1 4
+2829 boot 1 42 shell 1 42 scripts 1 42
+39717 boot 1 4 shell 1 4 scripts 1 4
+7176 gmail 1 5 notifications 1 5 filter 1 5
+11471 privacy 1 8 profiles 1 8 user-interface 1 8 multi-user 1 8 google-play-store 1 6 amazon-kindle-fire 2 11 rooting 1 5
+14330 privacy 1 4 profiles 1 4 user-interface 1 4 multi-user 1 4
+6817 uninstallation 1 15 system 1 15 bloatware 1 15 google-play-store 1 9 apk 1 9
+6830 uninstallation 1 19 system 1 19 bloatware 1 19 google-play-store 1 10 apk 1 10 battery 1 14 hardware 1 14 charging 1 14 contacts 1 7 cyanogenmod 1 7 applications 1 18 sim-unlocking 1 5 nexus-4 1 5
+5571 tasker 1 4
+4713 tasker 1 10
+18670 tasker 1 20
+172227 tasker 1 4
+42146 custom-roms 1 7 odex 1 7
+3458 wi-fi 1 6 sync 1 6 file-transfer 1 6
+7973 usb 1 6 video 1 6 windows 1 6 streaming 1 6
+5501 usb 1 7 video 1 7 windows 1 7 streaming 1 7
+11257 applications 1 5 security 1 5 4.0-ice-cream-sandwich 1 10 recent-apps-list 1 10
+3522 google-play-store 1 4 paid-apps 1 4 2.2-froyo 1 10 wi-fi 1 10 settings 1 10 bluetooth 1 10 battery 1 10 samsung-galaxy-s 1 6 samsung-nexus-s 1 6 calls 1 4 touchscreen 1 4 email 1 8 gmail 2 14 applications 1 4 accounts 1 4 offline 1 6
+9160 2.2-froyo 2 9 wi-fi 3 12 settings 2 8 bluetooth 1 4 battery 1 4 htc-desire 1 5 applications 1 5 security 1 5 browser 1 5 malware 1 5 kiosk-mode 1 5 updates 1 4 battery-life 1 5 clockworkmod-recovery 1 5 calibration 1 5
+3065 samsung-galaxy-s 1 7 samsung-nexus-s 1 7 super-amoled 1 7
+3613 applications 1 6 google-play-store 1 6 amazon-appstore 1 6
+2199 applications 1 4 google-play-store 1 4 amazon-appstore 1 4 google-account 1 4
+3646 usb 1 8 adb 2 20 camera 1 8 htc-desire-hd 1 8 screen-sharing 1 8 applications 1 5 battery 2 9 2.2-froyo 2 17 contacts 1 6 search 1 6 cyanogenmod 2 17 auto-rotation 1 5 backup 1 20 rom-flashing 2 37 clockworkmod-recovery 1 20 rom-manager 1 20 nandroid 1 20 keyboard 2 29 lg-optimus-one 1 7 external-sd 2 32 app2sd 2 32 partitions 1 7 ext3 1 7 performance 1 25 motorola-droid-x 2 8 call-screening 1 4 samsung-galaxy-s 2 9 languages 1 4 hebrew 1 4 notification-icons 1 4 google-play-store 3 41 localization 1 22 ssh 1 12 bash 1 12 screen 2 16 automation 1 10 gps 1 7 facebook 1 7 privacy 1 7 motorola-milestone 1 7 updates 1 10 stock-android 1 10 power-on 1 5 wallpaper 1 10 malware 1 27 airpush 1 27 open-source 2 12 samsung-galaxy-s-2 2 21 4.0-ice-cream-sandwich 3 36 reboot 1 7 google-maps 1 11 intents 1 11 disable-app 1 11 auto-start 1 11 notifications 1 22 rooting 1 14 google-play-music 1 14 charging 2 10 nexus-one 1 4 bluetooth 1 10 terminal 2 24 htc-sensation 1 7 face-unlock 1 7 drm 1 7 custom-roms 1 17 recovery-mode 1 17 installation 1 6 app-brain 1 6 google-keep 1 7 factory-reset 1 6 application-autoupdate 1 13 apk 1 5 sd-card 1 4 dialer 1 4 emergency-calls 1 4 5.0-lollipop 1 4 samsung-galaxy-s-5 1 4 google-voice 1 4 google-hangouts 1 4
+30767 lock-screens 1 4 calls 1 4 emergency-calls 1 4
+3808 cyanogenmod 1 7 custom-roms 1 7 backup 1 7
+11666 amazon-appstore 1 5
+4293 2.3-gingerbread 1 5 battery-life 1 5
+2603 htc-desire 1 4 usb 1 4 charging 1 4
+23686 charging 1 8 screen 1 8
+4378 ebook-reader 1 10 pdf 1 10 dropbox 1 10
+10210 sd-card 1 4 browser 1 4 files 1 4
+9897 dropbox 1 67
+23579 dropbox 1 6
+3385 applications 1 5 battery 1 5
+96277 applications 2 38 battery 1 26 google-play-store 1 12 buttons 1 36 adb 3 19 gps 1 10 geolocation 1 10 shell 1 10 terminal 1 10 accounts 1 43 multi-user 1 43 auto-rotation 1 22 samsung-galaxy-s-3 2 11 samsung 1 7 location-services 1 7 recovery-mode 1 5 fastboot 1 5 usb-debugging 2 9 chrome-for-android 1 7 password 1 7 privacy 1 7 url 1 7 broken-screen 1 4 6.0-marshmallow 2 31 networking 1 27 permissions 1 27 firefox 1 5 browser-add-ons 1 5 browser-tabs 1 5 screen 1 23 user-interface 1 23
+2713 factory-reset 1 4
+33031 factory-reset 1 7
+4123 settings 1 8 silent-mode 1 8 htc-desire 1 4 bandwidth 1 4 applications 1 5 ios 1 5 antivirus 1 5
+379 settings 1 10 silent-mode 1 10
+5390 cyanogenmod 1 6 auto-rotation 1 6 samsung-galaxy-s 1 4 battery-life 1 4
+86591 custom-roms 1 4 dalvik 1 4 cache 1 4 rooting 1 4 internal-storage 1 4 ram 1 4 youtube 1 5 gmail 1 8 inbox-by-gmail 1 8 4.4-kitkat 1 10 boot 1 10 5.1-lollipop 1 10
+526 samsung-galaxy-s 1 4 media-player 1 4 mp3 1 4 mp3-player 1 4
+6498 samsung-galaxy-s 2 8 media-player 2 8 mp3 2 8 mp3-player 2 8
+4888 touchscreen 1 5 motorola-defy 1 5
+16606 touchscreen 1 4 motorola-defy 1 4 3g 1 26 user-interface 1 26 email 1 4 photos 1 4 gallery 1 4
+4901 backup 1 6 rom-flashing 1 6 clockworkmod-recovery 1 6 rom-manager 1 6 nandroid 1 6
+9955 backup 1 6 rom-flashing 1 6 clockworkmod-recovery 1 6 rom-manager 1 6 nandroid 1 6
+4974 keyboard 1 5 lg-optimus-one 1 5
+20813 sms 1 4
+5024 settings 1 5 samsung-galaxy-tab-10 1 5 time-zones 1 5
+5050 settings 1 13 samsung-galaxy-tab-10 1 13 time-zones 1 13
+5693 settings 1 5 samsung-galaxy-tab-10 1 5 time-zones 1 5
+5768 applications 1 5 amazon-appstore 1 5 drm 1 5
+4934 security 1 71 apk 1 71 gmail 1 22 offline 1 22 samsung-galaxy-tab 1 18 charging 1 18
+204978 security 1 4 apk 1 4
+5013 adb 1 6 linux 1 6 file-transfer 2 13 3g 1 8 cellular-radio 1 8 2g 1 8 4.0-ice-cream-sandwich 1 7
+3009 music 1 12 mp3 1 12 dropbox 1 12 mp3-player 1 12 permissions 1 8 screen 1 5 nexus-7 1 5 web-server 1 5 adb 1 14 updates 1 4 apk 1 4
+23365 music 1 5 mp3 1 5 dropbox 1 5 mp3-player 1 5
+4500 usb 1 5 charging 1 5
+13120 internal-storage 1 10 adb 1 10 installation 1 10 apk 1 10 insufficient-memory 1 10
+4332 rooting 1 18 security 1 18
+4188 samsung-galaxy-tab 1 5 charging 1 5
+6374 samsung-galaxy-tab 1 8 charging 1 8 applications 1 6
+7240 samsung-galaxy-tab 1 6 charging 1 6
+9865 default-applications 1 4
+5343 3g 1 4 cellular-radio 1 4 2g 1 4
+5439 wi-fi 1 11 2.2-froyo 1 11 data-connection 1 11
+2897 wi-fi 1 21 2.2-froyo 1 21 data-connection 1 21
+15134 wi-fi 1 8 2.2-froyo 1 8 data-connection 1 8
+29785 wi-fi 1 5 2.2-froyo 1 5 data-connection 1 5
+30680 wi-fi 1 22 2.2-froyo 1 22 data-connection 1 22
+4925 external-sd 1 7 performance 1 7 app2sd 1 7
+12357 external-sd 1 5 performance 1 5 app2sd 1 5 screen 1 6 nexus-7 1 6
+44325 volume-control 1 4 networking 1 10 maps 1 6 malware 1 12 security 1 15 5.0-lollipop 3 25 pattern-lock 1 15 nexus-4 1 4 google-play-services 1 4 smart-lock 2 10 lock-screens 1 6 gmail 1 11 inbox-by-gmail 1 11 permissions 1 7 unknown-sources 1 7 sd-card 1 20 windows 1 20 file-transfer 1 20 bluestacks 1 20 google-now 1 9 6.0-marshmallow 3 20 wi-fi 2 11 notifications 2 11 vibration 2 11 youtube 1 6 languages 1 8 gboard 1 8 google-pixel 1 41
+5470 htc-desire 1 7 external-sd 1 7
+13117 ssh 1 5
+5457 calls 1 8 command-line 1 8
+11190 calls 1 4 command-line 1 4 applications 1 22 rom 1 22 system 1 22 titanium-backup 1 22 notifications 1 9 calendar 1 9 silent-mode 1 9 google-drive 1 54 home-screen-shortcuts 1 54 2.3-gingerbread 1 6 sd-card 1 6 internal-storage 1 6 storage 1 6 insufficient-memory 1 6 factory-reset 1 11
+5636 motorola-droid-x 1 4 call-screening 1 4
+3901 compass 1 7
+14464 compass 1 8
+234457 compass 1 8
+5066 home-screen-shortcuts 1 4 home-screen-folders 1 4 samsung-nexus-s 1 4 screen-timeout 1 4 sync 1 4 gmail 1 4 call-history 1 4 2.2-froyo 1 4 external-sd 1 4
+5626 samsung-nexus-s 1 5 screen-timeout 1 5
+8981 cyanogenmod 1 6 htc-chacha 1 6
+993 gps 1 15
+5661 sync 1 6 gmail 1 6 call-history 1 6 alarm 1 5 geolocation 1 5 documentation 1 8
+5946 contacts 1 4 sms 1 4 sim-card 1 4 zte-blade 1 4
+9638 contacts 1 7 sms 1 7 sim-card 1 7 zte-blade 1 7
+26034 screen-resolution 1 16
+5194 screenshots 1 6
+8767 audio 1 7 headphones 1 7 samsung-galaxy-551 1 7 speakerphone 1 7
+23607 audio 2 9 headphones 1 5 samsung-galaxy-551 1 5 speakerphone 1 5 samsung-galaxy-nexus 1 4 headphone-jack 1 4
+6464 1.6-donut 1 4 google-plus 1 4
+1155 android-versions 1 20
+11612 linux 1 10 command-line 1 10
+17710 linux 1 4 command-line 1 4
+6638 motorola-droid-x 1 7 notification-icons 1 7
+7197 google-play-store 1 10 apk 1 10 root-access 1 25
+8197 google-play-store 2 14 apk 1 9 applications 3 30 sd-card 1 8 internal-storage 1 8 wi-fi 2 13 cache 1 6 samsung-galaxy-nexus 1 10 ios 1 10 angry-birds 1 10 rom-flashing 1 5 fastboot 1 5 bootloader-lock 1 5 data-connection 1 8 data-plan 1 8 data-monitoring 1 8
+9052 google-play-store 1 5 apk 1 5 screen 1 5
+17994 google-play-store 1 33 apk 1 33 logging 1 4 settings 1 28 data-monitoring 1 28 mobile-data 1 28
+25084 google-play-store 1 5 apk 1 5
+5342 google-play-store 2 9 apk 1 5 wi-fi 1 4 dropbox 1 4 4.1-jelly-bean 1 5 adobe-flash 1 5 cyanogenmod 1 5 linux 1 5 shell 1 5 multi-user 1 6 4.3-jelly-bean 1 6 restricted-profiles 1 6 paid-apps 1 24 security 1 15 side-loading 1 15 notifications 1 5 facebook 2 9 clock 1 6 sync 1 4 nexus-5 1 4 chrome-for-android 1 4
+7349 wi-fi 1 11
+4880 sync 1 6 asus-eee-pad-transformer 1 6
+13993 sync 1 6 asus-eee-pad-transformer 1 6
+52235 google-play-store 1 5 localization 1 5
+7521 security 1 5 google-account 1 5 lost-phone 1 5 remote-wipe 1 5
+7422 wi-fi 1 11 wifi-hotspot 1 11
+18445 voice-recognition 1 8
+22422 voice-recognition 1 4
+32416 voice-recognition 1 4
+40246 voice-recognition 1 13
+7652 wi-fi 1 7 data-connection 1 7 mms 1 7
+10050 browser 1 7 internet 1 7 shell 1 7 dns 1 7
+139482 security 1 16 certificates 1 16
+7851 2.3-gingerbread 1 8 htc-droid-incredible 1 8 ota-update 1 8 root-access 1 8
+6204 root-access 1 29 sms 1 18
+7992 applications 1 5 uninstallation 1 5
+3303 applications 1 4 uninstallation 1 4 encryption 1 13 recovery-mode 1 13 swype 1 7 input-methods 1 7 text-input 1 7 wi-fi 1 7 bluetooth 1 7 file-system 1 7 file-management 1 7 notification-bar 1 4 2.3-gingerbread 1 4 stock-android 1 4 gallery 1 4 default-applications 1 4 sony-xperia-active 1 4 google-play-store 2 15 browser 1 10 app-market-link 1 10 ssh 2 18 busybox 1 6 pdf 1 6 ebook-reader 1 6 reading 2 14 google-wallet 1 5 video 1 6 media-player 1 6 google-reader 1 8 google-currents 1 8 security 2 40 sync 1 8 roaming 1 8 backup 1 24 gmail 1 36 password 1 36 gmail-password 1 36 root-access 1 18 terminal 1 12 command-line 1 12 disable-app 1 27 adb 1 4 settings 1 7 installation 1 7 unknown-sources 1 7
+68660 battery 1 4 hardware 1 4 charging 1 4
+294 gps 1 8 facebook 1 8 privacy 1 8 motorola-milestone 1 8
+8853 ringtone 1 4 google-play-music 1 4
+8301 samsung-galaxy-s-2 1 8 task-management 1 8 battery-life 1 8
+119408 cyanogenmod 1 5 usb 1 5 reverse-tether 1 5
+305 applications 1 16 default-applications 1 16
+8041 applications 1 10 default-applications 1 10 wi-fi 1 10 sensors 1 7 htc-one-v 1 7 battery-life 1 71 charging 1 71 sms 1 6 screen 1 7 nexus-7 1 7
+12442 applications 2 12 default-applications 1 4 system 1 8 tech-specs 1 8 usb 1 8 tablet 1 8 nexus-7 1 8 linux 2 19 drawing 1 8 push-notifications 1 25 backup 1 42 google-account 1 42 restore 2 51 google-apps 1 42 google-backup 2 47 facebook 1 20 launcher 1 20 facebook-home 1 20 adb 2 15 device-administrator 1 6 audio 1 14 volume-control 1 14 automation 1 9 shell 1 9 command-line 1 9 rom 2 25 vanilla-android 1 14 aokp 1 14 android-sdk 1 41 android-emulator 1 41 4.4-kitkat 2 14 internal-sd 1 6 media-scanner 1 6 settings 1 45 performance 1 45 processes 1 45 samsung-galaxy-s-2 1 5 hardware 1 5 unbricking 1 5 rom-flashing 1 11 custom-roms 1 11 firefox 1 11 contacts 1 8 apk 1 4 battery 1 16 ram 1 16 google-play-store 1 9 factory-reset 1 9 installation 1 22 permissions 1 22 physical-damage 1 8 share-menu 1 10 intents 1 10 wi-fi 1 28 security 1 28 bluetooth 1 28 smart-lock 1 28
+3415 ads 1 9
+3781 charging 1 6
+13772 file-system 1 5 mount 1 5
+27385 file-system 1 7 mount 1 7
+124763 samsung-galaxy-s 1 6 usb 1 6 hardware 1 6 charging 1 6
+8927 applications 1 8 voice-command 1 8
+8710 swype 1 13
+2132 swype 1 24
+22637 4.0-ice-cream-sandwich 1 9 updates 1 9 android-versions 1 9
+2688 google-account 1 11 2-step-verification 1 11 authorization 1 11
+14539 google-account 1 10 2-step-verification 1 10 authorization 1 10
+3976 applications 1 13
+17086 applications 1 9
+23437 applications 1 6 samsung-galaxy-tab 1 9 shutdown 1 9
+131216 applications 1 4
+9070 applications 1 6 google-play-store 1 6
+404 applications 1 4 sd-card 1 4 internal-storage 1 4
+5167 external-sd 1 4
+7783 updates 1 7 stock-android 1 7
+9468 gps 1 6 gps-tracking 1 6
+10042 gmail 1 5
+10069 gmail 1 8
+7920 notifications 1 8 internal-storage 1 8 insufficient-memory 1 8
+10596 notifications 1 8 internal-storage 1 8 insufficient-memory 1 8
+8202 home-screen 1 4
+10731 localization 1 5 amazon-kindle-fire 1 5
+12401 localization 1 4 amazon-kindle-fire 1 4
+14313 file-transfer 1 6 4.0-ice-cream-sandwich 1 6
+23235 sms 1 5
+10439 applications 1 6 security 1 6 browser 1 6 malware 1 6 kiosk-mode 1 6
+10040 wi-fi 1 5 settings 1 5 sms 1 43 files 1 43 file-system 1 43
+42973 sms 1 10 files 1 10 file-system 1 10
+44506 sms 1 9 files 1 9 file-system 1 9 rom-flashing 1 5 nexus-5 1 5 ota-update 1 5 twrp 1 5 5.0-lollipop 1 5
+184597 sms 1 8 files 1 8 file-system 1 8
+10923 4.0-ice-cream-sandwich 1 4 default-applications 1 4
+24617 custom-roms 1 9 rom 1 9 rom-flashing 1 9
+68043 custom-roms 1 5 rom 1 5 rom-flashing 1 5
+1522 updates 1 11 rooting 1 7 tethering 1 7 screen 1 11
+10812 applications 1 8 google-play-store 1 8
+15589 settings 1 8 4.0-ice-cream-sandwich 1 8 encryption 1 8
+10887 4.0-ice-cream-sandwich 1 15 volume-control 1 15 samsung-galaxy-nexus 1 15
+13178 contacts 1 9 4.0-ice-cream-sandwich 1 9
+14193 contacts 1 5 4.0-ice-cream-sandwich 1 5
+17720 contacts 1 5 4.0-ice-cream-sandwich 1 5
+80176 contacts 1 4 4.0-ice-cream-sandwich 1 4
+3812 google-play-store 1 5 amazon-kindle-fire 1 5
+11392 wi-fi 1 6
+11229 wi-fi 1 4
+9078 wallpaper 1 4 samsung-galaxy-s-2 1 14 4.0-ice-cream-sandwich 1 14 reboot 1 14
+6969 development 1 11
+174 development 1 12
+11153 development 1 21 open-source 1 4
+11489 development 1 4
+10686 development 1 5
+3151 development 1 25
+8004 adb 1 13 shell 1 13
+25635 adb 1 5 shell 1 5
+11595 malware 1 4 airpush 1 4
+1789 2.2-froyo 1 5 wi-fi 1 5 tethering 1 5 wifi-tethering 1 5 usb-tethering 1 5
+11720 2.2-froyo 1 5 wi-fi 1 5 tethering 1 5 wifi-tethering 1 5 usb-tethering 1 5
+24534 images 1 16 wallpaper 1 16
+207284 images 1 7 wallpaper 1 7
+9438 4.0-ice-cream-sandwich 1 19 youtube 1 19 multitasking 1 19
+10381 samsung-galaxy-s-2 1 9 wifi-hotspot 1 9
+113090 samsung-galaxy-s-2 1 7 wifi-hotspot 1 7
+7169 security 1 5 lost-phone 1 5
+12026 google-play-store 1 4 cyanogenmod 1 4
+37107 ringtone 1 5 default-applications 1 5 handcent-sms 1 5
+65059 ringtone 1 4 default-applications 1 4 handcent-sms 1 4
+11474 applications 1 4 cache 1 4 sync 1 5 google 1 5 cloud 1 5
+20468 encryption 1 4 recovery-mode 1 4
+12424 usb 1 4 audio 2 14 usb-host-mode 1 4 microphone 2 14 samsung-galaxy-nexus 1 10
+19011 usb 1 4 audio 1 4 usb-host-mode 1 4 microphone 1 4
+24767 usb 1 4 audio 1 4 usb-host-mode 1 4 microphone 1 4
+22736 video-calling 1 4 chat 1 4 xmpp 1 4
+17835 applications 1 12
+193101 applications 1 4
+14446 keyboard 1 5 notifications 1 5 4.0-ice-cream-sandwich 1 5
+15798 keyboard 1 13 notifications 1 13 4.0-ice-cream-sandwich 1 13
+13391 keyboard 1 7 notifications 1 7 4.0-ice-cream-sandwich 1 7 applications 1 29 google-play-store 4 57 settings 1 5 languages 1 5 locale 1 5 battery 1 17 battery-life 1 17 charging 1 17 samsung-galaxy-ace 1 17 downloading 1 18 wi-fi 1 10 internet 1 10 connection-issues 1 10 ram 1 4 dolphin-browser 1 9 calls 1 16 google-wallet 1 6 updates 1 6 paid-apps 1 6
+1659 rom-flashing 1 4 offline 1 4 google-play-music 1 4
+7488 adb 1 14 system 1 14 copy-paste 1 14
+223695 adb 1 4 system 1 4 copy-paste 1 4
+10956 rooting 1 4 samsung-galaxy-s-2 1 4
+39719 applications 1 7 google-play-store 1 7
+64 4.0-ice-cream-sandwich 1 68 recent-apps-list 1 68
+13665 contacts 1 5 4.0-ice-cream-sandwich 1 5 filter 1 5
+24519 bluetooth 1 4 remote-control 1 4 google-drive 1 4
+27425 samsung-galaxy-tab 1 5 shutdown 1 5
+511 google-play-store 1 6 google-account 1 6 authorization 1 6
+18233 google-play-store 1 5 google-account 1 5 authorization 1 5
+23436 google-play-store 1 31 google-account 1 31 authorization 1 31
+20940 auto-correct 1 9 dictionary 1 9
+3394 google-play-music 1 8
+13575 google-play-store 1 6 permissions 1 6
+9556 google-play-store 1 5 permissions 1 5 4.0-ice-cream-sandwich 1 10 keyboard 1 10 battery 1 10 lg-optimus-one 1 10 applications 1 4 settings 1 10 samsung-galaxy-nexus 1 10 vibration 1 10
+16265 google-play-store 2 35 permissions 1 13 windows 1 6 asus-eee-pad-transformer 1 6 vpn 1 6 dns 1 6 google-reader 1 7 reading 1 7 google-currents 1 7 samsung-galaxy-nexus 1 10 email 1 4 gmail 2 16 languages 1 22 localization 1 22 gps 1 11 offline 1 11 maps 1 11 offline-map 1 11 wi-fi 2 30 battery 1 5 data-connection 1 5 2g 1 5 dropbox 1 17 usb 1 25 bluetooth 1 25 file-transfer 1 25 sensors 1 7 htc-one-v 1 7 amazon-kindle-fire-hd 1 8 security 1 12 password 1 12 gmail-password 1 12 signal 1 4 overheating 1 4
+73528 google-play-store 1 5 permissions 1 5
+13452 wi-fi 1 4 bluetooth 1 4 file-system 1 4 file-management 1 4
+24915 dialer 1 4
+12915 notification-bar 1 5
+51021 google-play-store 1 6 installation 1 6 google-account 1 6
+16486 settings 1 7 calls 1 7 privacy 1 7
+9521 battery 1 10 battery-life 1 10 charging 1 10 samsung-galaxy-ace 1 10
+11938 gmail 1 4 google-account 1 4 privacy 1 4
+9535 battery 1 5 charging 1 5 nexus-one 1 5
+7379 rooting 1 4 tethering 1 4
+58715 bluetooth 1 6 terminal 1 6
+13956 backup 1 13 titanium-backup 1 13 rom-flashing 1 17 fastboot 1 17 bootloader-lock 1 17
+12427 windows 1 4 asus-eee-pad-transformer 1 4 vpn 1 4 dns 1 4 daydream 1 10 notifications 1 6 calendar 1 6 4.2-jelly-bean 1 6
+13958 google-play-store 1 5 notifications 1 5
+27163 google-play-store 1 7 notifications 1 7
+13618 cyanogenmod 1 5
+14154 4.0-ice-cream-sandwich 1 7 htc-sensation 1 7 face-unlock 1 7 remote-control 1 4 htc-one-s 1 4
+14215 google-reader 1 4 rss 1 4
+11343 notifications 1 4 calendar 1 4 silent-mode 1 4 security 1 8 lock-screens 1 8 external-display 1 9 nexus-7 1 5 nfc 1 5
+14280 wi-fi 1 21 security 1 21
+16116 google-play-store 1 6 browser 1 6 app-market-link 1 6
+12155 4.0-ice-cream-sandwich 1 4 gmail 1 4
+58214 downloading 1 4
+7268 wi-fi 1 14 internet 1 14 connection-issues 1 14
+18334 wi-fi 1 11 internet 1 11 connection-issues 1 11
+14958 rooting 1 9
+40036 ram 1 4 rom-flashing 1 5 nexus-5 1 5 ota-update 1 5 twrp 1 5 5.0-lollipop 2 16 keyboard 1 11 nexus-4 1 11 color 1 11
+14818 battery 1 4 system-freeze 1 4
+15241 battery 1 17 system-freeze 1 17
+15494 backup 1 14 adb 1 14
+10680 backup 1 50 adb 1 50
+71168 backup 1 7 adb 1 7
+15206 networking 1 13 samsung-galaxy-ace 1 13 gsm 1 13
+13063 rooting 1 10 battery-life 1 10 battery 1 25 charging 1 25 dropbox 1 4
+842 screen 1 6
+15415 keyboard 1 9 tablet 1 9
+123653 command-line 1 8
+16022 calls 1 4
+27285 contacts 1 4 google-account 1 4
+39596 contacts 1 17 google-account 1 17
+40344 contacts 2 9 google-account 2 9
+16191 4.0-ice-cream-sandwich 1 4 email 1 4 security 1 4 active-sync 1 4
+23023 4.0-ice-cream-sandwich 1 4 email 1 4 security 1 4 active-sync 1 4
+16102 charging 1 13 htc-one-x 1 13
+23417 charging 1 7 htc-one-x 1 7
+7012 water-damage 1 10
+241763 water-damage 1 6
+23691 pdf 1 5 ebook-reader 1 5 reading 1 5
+15975 charging 1 6 screen 1 6
+15575 samsung-galaxy-s-2 1 5 connection-issues 1 5
+6237 samsung-galaxy-s-2 1 5 connection-issues 1 5
+15788 hardware 1 7 screen 1 7 nexus-7 1 7 internal-storage 1 8
+9165 hardware 1 44 screen 1 44 nexus-7 1 44
+16698 google-account 1 5
+30467 google-account 1 6
+6815 crashes 1 4 sqlite 1 4
+23128 crashes 1 4 sqlite 1 4
+4295 google-maps 1 13 geolocation 1 13 google-latitude 1 13 google-now 1 13
+10208 google-maps 1 4 geolocation 1 4 google-latitude 1 4 google-now 1 4
+16187 video 1 7 media-player 1 7
+16389 video 1 4 media-player 1 4
+33280 4.0-ice-cream-sandwich 1 8 ram 1 8 samsung-galaxy-s-3 1 8
+16666 3g 1 20 user-interface 1 20
+16078 security 1 8 settings 1 8 adb 1 8 networking 1 8 backup 1 8 clockworkmod-recovery 1 8 recovery-mode 1 8 nandroid 1 8 amazon-kindle-fire-hd 1 15
+33734 samsung-galaxy-s-3 1 7 search 1 7
+9369 google-play-store 1 6 nexus-7 1 6
+7981 email 1 6 gmail 1 6
+19073 4.0-ice-cream-sandwich 1 9 keyboard 1 9
+37404 google-play-store 1 12 languages 1 12 localization 1 12
+4100 security 1 9 exchange 1 9 device-administrator 1 9
+7813 security 1 5 exchange 1 5 device-administrator 1 5
+17674 security 1 8 exchange 1 8 device-administrator 1 8
+119593 security 1 7 exchange 1 7 device-administrator 1 7
+100594 security 1 5 exchange 1 5 device-administrator 1 5
+18296 file-management 1 13 nexus-7 1 13
+23247 file-management 1 10 nexus-7 1 10
+34705 internal-storage 1 11 insufficient-memory 1 11 acer-iconia-a500 1 11
+35341 applications 1 4 accounts 1 4
+144136 google-play-store 1 6
+3063 battery 1 13 lg-optimus-one 1 13
+16488 cyanogenmod 1 12 rom 1 12 kernel 1 12 file-transfer 1 4 4.2-jelly-bean 1 4 nexus-4 1 4 mtp 1 4 file-properties 1 4
+25778 gps 1 5 offline 1 5 maps 1 5 offline-map 1 5
+16963 wi-fi 1 4 data-connection 1 4 data-plan 1 4 data-monitoring 1 4 root-access 1 6
+7425 google-play-store 1 6 gmail 1 6 installation 1 6 google-maps 1 6 google-apps 1 6 samsung-galaxy-s-4 1 35 heimdall 1 35 clockworkmod-recovery 1 16 samsung 1 9 recovery-mode 1 9 samsung-galaxy-s-5 1 9 odin 1 9
+17476 sync 1 11 roaming 1 11
+1063 applications 1 5
+18379 applications 1 4
+61541 google-play-store 1 14 installation 1 14 app-brain 1 14
+17099 data-monitoring 1 8 background-data 1 8
+131610 mount 1 8
+16023 mount 1 5
+19168 audio 1 4 samsung-galaxy-nexus 1 4 headphone-jack 1 4
+24120 backup 1 32
+17286 backup 1 11
+46784 backup 1 8
+17808 backup 1 7 google-play-store 1 4 system-error 1 4 sony-xperia-arc 1 4
+18570 logging 1 4
+16773 wi-fi 1 6
+10950 cyanogenmod 1 7 wi-fi 1 7 sony-xperia 1 7
+8048 wi-fi 1 7 usb 1 7 bluetooth 1 7 file-transfer 1 7
+18962 settings 1 5 samsung-galaxy-nexus 1 5 vibration 1 5
+18985 backup 1 4 clockworkmod-recovery 1 4 recovery-mode 1 4 nandroid 1 4
+12421 applications 1 6 samsung-galaxy-nexus 1 6 4.1-jelly-bean 1 6
+9779 battery-life 1 27 charging 1 27
+19068 battery-life 1 7 charging 1 7
+33242 battery-life 1 6 charging 1 6
+64331 battery 1 12
+14562 wi-fi 1 6 samsung-galaxy-nexus 1 6 4.1-jelly-bean 1 6
+13501 root-access 1 4
+33816 internal-storage 1 5
+20313 headphones 1 5
+15068 headphones 1 5
+24590 wifi-hotspot 1 12
+26392 wifi-hotspot 1 6
+20400 battery-life 1 5 clockworkmod-recovery 1 5 calibration 1 5
+39351 adb 1 7 recovery-mode 1 7 shell 1 7
+17235 adb 1 4 recovery-mode 1 4 shell 1 4 debug 1 8
+20417 ssh 1 9 terminal 1 9 command-line 1 9
+4450 ssh 1 25 terminal 1 25 command-line 1 25
+29545 ssh 1 7 terminal 1 7 command-line 1 7
+168272 ssh 1 8 terminal 1 8 command-line 1 8
+15012 google-drive 1 16 home-screen-shortcuts 1 16
+20866 compass 1 4 calibration 1 4
+42320 compass 1 4 calibration 1 4
+128974 compass 1 5 calibration 1 5
+19193 tasker 1 5
+28097 podcast 1 8 itunes 1 8
+21343 google-play-store 1 11 updates 1 11 paid-apps 1 11
+1353 web-server 1 10 buttons 1 29
+5908 disable-app 1 13
+65937 browser 1 11 proxy 1 11
+22950 alarm 1 6
+16681 scripts 1 4
+43090 4.0-ice-cream-sandwich 1 5 browser 1 5 samsung-galaxy-tab-2-10.1 1 5
+9677 google-play-store 1 6 installation 1 6 contacts 1 15 sync 1 15 4.4-kitkat 1 15
+12677 google-play-store 1 5 installation 1 5 hardware 1 16 headphone-jack 1 16 compatibility 1 16 settings 1 8 dialer-codes 1 8
+23851 google-play-store 1 8 restore 1 8 device-firmware 1 4
+114824 google-play-store 1 33 restore 1 33
+20716 screen 1 4 nexus-7 1 4
+23463 samsung-galaxy-nexus 1 4 automation 1 4 youtube 1 4 auto-rotation 1 4 updates 1 10 apk 1 10
+24172 4.2-jelly-bean 1 4 daydream 1 4 samsung-nexus-10 1 4 push-notifications 1 6
+24179 device-firmware 1 12
+23562 notification-icons 1 7 backup 1 5 data-transfer 1 5 file-transfer 1 4 4.2-jelly-bean 1 4 nexus-4 1 4 mtp 1 4 file-properties 1 4 2.3-gingerbread 1 6 samsung-galaxy-s 1 6 reboot 1 6 usb 1 21 tablet 1 21 nexus-7 2 30 linux 1 21 drawing 1 21 battery 1 41 charging 1 41 gps 1 9 glonass 1 9
+35563 keyboard 1 7 4.2-jelly-bean 1 7 auto-correct 1 7
+11251 adb 1 6 command-line 2 14 services 1 6 file-transfer 1 73 mtp 1 73 linux 1 8 file-system 1 8 partitions 1 8 swap 1 8
+278634 adb 1 5 command-line 1 5 services 1 5
+8661 applications 1 10 compatibility 1 10 system-info 1 10 proximity-sensor 1 9
+7815 battery 1 7 battery-life 1 7 4.2-jelly-bean 1 7 nexus-4 1 44 notification-led 1 44
+31026 battery 1 6 battery-life 1 6 4.2-jelly-bean 1 6
+24933 usb 1 6 samsung-galaxy-s-3 1 6 connection-issues 1 6 troubleshooting 1 6
+28310 usb 1 6 samsung-galaxy-s-3 1 6 connection-issues 1 6 troubleshooting 1 6
+31559 file-transfer 1 4 4.2-jelly-bean 1 4 nexus-4 1 4 mtp 1 4 file-properties 1 4
+78642 file-transfer 1 6 4.2-jelly-bean 1 6 nexus-4 1 6 mtp 1 6 file-properties 1 6
+21310 google-play-store 1 9 application-autoupdate 1 9
+14103 adb 1 5 geolocation 1 5 shell 1 5
+145687 adb 1 5 geolocation 1 5 shell 1 5
+23379 settings 1 5 dialer-codes 1 5 music 1 19 music-player 1 19 signal 1 8 overheating 1 8
+30866 lock-screens 1 8 locked-out 1 8
+32684 4.2-jelly-bean 1 7 multi-user 1 7
+27328 4.2-jelly-bean 1 4 multi-user 1 4
+25209 nexus-7 1 5 boot-loop 1 5
+25403 nexus-7 1 5 boot-loop 1 5
+26125 system 1 5 tech-specs 1 5
+15453 nexus-7 1 6 buttons 1 6 menu 1 6
+25343 dropbox 1 4
+15091 dropbox 1 5
+58266 wifi-tethering 1 5 firewall 1 5 dhcp 1 5
+64549 wifi-tethering 1 4 firewall 1 4 dhcp 1 4
+47030 toast-notifications 1 4
+27047 music 1 5 music-player 1 5
+75037 music 1 4 music-player 1 4
+20651 music 1 9 music-player 1 9
+34719 whatsapp-messenger 1 5
+39209 whatsapp-messenger 1 9
+266622 home-screen 1 5 home-screen-shortcuts 1 5
+27413 viber 1 5
+16096 system 1 5 resource-monitoring 1 5
+27214 updates 1 4 hardware-requirements 1 4
+23293 4.1-jelly-bean 1 15 adobe-flash 1 15 sync 1 9 share-menu 1 9 intents 1 9
+31901 nexus-4 1 7 notification-led 1 7
+30425 cyanogenmod 1 10 custom-roms 1 10 rom-flashing 1 10 rom-manager 1 10 gmail 1 43
+29638 usb-host-mode 1 10
+29818 usb-host-mode 1 7
+187959 adb 1 12 gps 1 12 geolocation 1 12 shell 1 12 terminal 1 12
+273966 adb 1 4 gps 1 4 geolocation 1 4 shell 1 4 terminal 1 4
+31206 email 1 9 photos 1 9 gallery 1 9
+13482 email 1 11 photos 1 11 gallery 1 11
+92056 usb 1 6 boot 1 6 bootloader 1 6 usb-host-mode 1 6 usb-peripherals 1 6 6.0-marshmallow 1 16 applications 1 13 rooting 1 13 root-access 1 13 systemless-root 1 13 boot-animation 1 6
+127343 adb 1 8
+23978 settings 1 16
+229081 settings 1 5
+248699 settings 1 4
+50381 usb 1 5 tablet 1 5 nexus-7 1 5 linux 1 5 drawing 1 5
+30165 google-plus 1 11 instant-upload 1 11
+46032 google-plus 1 7 instant-upload 1 7
+59365 daydream 1 5
+30734 osmand 1 4
+30171 osmand 1 6
+95882 osmand 1 4
+79960 backup 1 6 google-account 1 6 restore 1 6 google-apps 1 6 google-backup 1 6
+32551 google-play-store 1 13 localization 1 13
+13651 google-play-store 1 97 localization 1 97
+9544 google-play-store 1 66 localization 1 66
+97973 adb 1 6 installation 1 6
+119358 adb 1 5 installation 1 5 nexus-5 1 13 launcher 1 13 6.0-marshmallow 1 13 auto-rotation 1 13
+11028 4.0-ice-cream-sandwich 1 7 4.1-jelly-bean 1 7 nexus-7 1 7 file-transfer 1 7 wifi-direct 1 7
+33013 4.0-ice-cream-sandwich 1 5 4.1-jelly-bean 1 5 nexus-7 1 5 file-transfer 1 5 wifi-direct 1 5
+6299 camera 1 5 gallery 1 5
+152235 camera 1 5 gallery 1 5
+25096 google-keep 1 9
+159757 google-keep 1 5
+31596 google-play-store 1 4 factory-reset 1 4 paid-apps 1 4
+31612 apk 1 13 bluestacks 1 13
+34012 apk 1 6 bluestacks 1 6
+37548 apk 1 32 bluestacks 1 32
+31722 privacy 1 9 notifications 1 8 calendar 1 8 4.2-jelly-bean 1 8
+43641 backup 1 4 twrp 1 4
+179012 external-sd 1 4 internal-storage 1 4 insufficient-memory 1 4
+32513 networking 1 18 whatsapp-messenger 1 18 google-talk 1 5 google-hangouts 1 5
+38208 networking 1 8 whatsapp-messenger 1 8
+10913 proximity-sensor 1 13
+82877 proximity-sensor 1 13
+32923 keyboard 1 4 4.2-jelly-bean 1 4 mms 1 4
+71490 keyboard 1 19 4.2-jelly-bean 1 19 mms 1 19
+30074 google-play-store 1 44 google-account 1 44
+41714 google-play-store 1 5 google-account 1 5
+49041 google-play-store 1 5 google-account 1 5
+7288 google-now 1 17 weather 1 17
+159621 google-now 1 4 weather 1 4
+275724 adb 1 5 device-administrator 1 5
+34732 google-talk 1 6 google-hangouts 1 6
+34694 rooting 1 9 adb 1 9 fastboot 1 9
+46536 rooting 1 26 adb 1 26 fastboot 1 26
+64158 rooting 1 28 adb 1 28 fastboot 1 28
+103911 rooting 1 6 adb 1 6 fastboot 1 6
+49188 file-transfer 1 35 mtp 1 35
+44446 file-transfer 1 5 mtp 1 5
+107718 file-transfer 1 17 mtp 1 17
+15309 audio 1 6 volume-control 1 6
+265386 audio 1 4 volume-control 1 4
+77812 external-display 1 5
+36039 samsung-galaxy-s-2 1 6 voice-command 1 6 system-error 1 6
+36050 samsung-galaxy-s-2 1 8 voice-command 1 8 system-error 1 8
+44025 tethering 1 5 mobile-network 1 5
+100287 gmail 1 4
+7371 gmail 1 15
+36408 applications 1 9 file-system 1 9 storage 1 9
+38577 3g 1 4 whatsapp-messenger 1 4 samsung-galaxy-s-duos 1 4
+40164 3g 1 5 whatsapp-messenger 1 5 samsung-galaxy-s-duos 1 5
+37264 keyboard 1 4 bluetooth 1 4 languages 1 4 text-layout 1 4
+89546 keyboard 1 7 bluetooth 1 7 languages 1 7 text-layout 1 7
+33346 google-maps 1 11
+26313 google-play-store 1 4 accounts 1 4 multiple-devices 1 4
+43784 google-play-store 1 5 accounts 1 5 multiple-devices 1 5
+78031 adb 1 5 automation 1 5 shell 1 5 command-line 1 5
+37876 google-maps 1 6
+181887 google-maps 1 7
+40793 multi-user 1 4 4.3-jelly-bean 1 4 restricted-profiles 1 4
+39896 samsung-galaxy-s-4 1 10 heimdall 1 10
+30530 google-play-store 2 28 updates 4 34 notifications 2 22 internal-storage 1 9 nexus-7 1 9 4.3-jelly-bean 1 9 multi-user 1 9 restricted-profiles 1 9 applications 1 12 security 1 12 malware 2 26 2.3-gingerbread 1 9 insufficient-memory 1 9 ram 1 9 google-play-services 1 9 5.0-lollipop 2 13 root-access 1 7 ota-update 1 7 google 1 7 lock-screens 1 14
+9993 nexus-7 1 5 gps 1 5 glonass 1 5
+41028 internal-storage 1 4 nexus-7 1 4 4.3-jelly-bean 1 4 multi-user 1 4 restricted-profiles 1 4
+46559 lock-screens 1 7 camera 1 7
+47546 lock-screens 1 4 camera 1 4
+128445 calls 1 5 silent-mode 1 5 mute 1 5
+58461 security 1 5 side-loading 1 5
+14758 tasker 1 4 4.3-jelly-bean 1 4 nfc 1 4
+28692 rooting 1 7 root-access 1 7 superuser 1 7
+37823 rooting 1 4 root-access 1 4 superuser 1 4
+43016 usb-debugging 1 9
+25160 usb-debugging 1 4
+38018 applications 1 5 google-play-store 1 5 security 1 5 malware 1 5
+38645 applications 1 6 google-play-store 1 6 security 1 6 malware 1 6
+82426 adb 1 7 system-apps 1 7
+100477 chrome-for-android 1 13
+226206 chrome-for-android 1 36
+258950 chrome-for-android 1 25
+252540 chrome-for-android 1 5
+64465 settings 1 5 data-monitoring 1 5 mobile-data 1 5
+47208 4.4-kitkat 1 13 internal-sd 1 13 media-scanner 1 13
+48358 samsung-galaxy-s-2 1 16 storage 1 16 insufficient-memory 1 16
+49534 samsung-galaxy-s-2 1 5 storage 1 5 insufficient-memory 1 5
+58505 samsung-galaxy-s-2 1 17 storage 1 17 insufficient-memory 1 17
+27231 notifications 1 4 facebook 1 4
+2073 cyanogenmod 1 5
+47968 clock 1 14
+31626 dropbox 1 5 contacts 1 32 sync 1 32 4.4-kitkat 1 32 antivirus 1 19
+50481 google-play-store 1 9 application-autoupdate 1 9
+57829 internal-storage 1 13 storage 1 13 insufficient-memory 1 13
+52652 internal-storage 1 10 storage 1 10 insufficient-memory 1 10
+50793 keyboard 1 10 4.4-kitkat 1 10 auto-correct 1 10 dictionary 1 10
+50927 keyboard 1 9 4.4-kitkat 1 9 auto-correct 1 9 dictionary 1 9
+16437 applications 1 4 google-play-store 1 4 installation 1 4 command-line 1 4 4.4-kitkat 1 5 external-keyboard 1 5 instant-messaging 1 5
+60252 applications 1 7 google-play-store 1 7 installation 1 7 command-line 1 7
+51294 adb 1 4 samsung-galaxy-s-4 1 4 mac-os-x 1 4
+61296 adb 1 4 samsung-galaxy-s-4 1 4 mac-os-x 1 4
+57820 4.4-kitkat 1 5 external-keyboard 1 5 instant-messaging 1 5
+51737 google-play-store 1 9 filter 1 9
+44470 google-play-store 1 7 filter 1 7
+51781 adb 1 7 samsung-galaxy-s-4 1 7
+119023 adb 1 6 samsung-galaxy-s-4 1 6
+3191 security 1 6 lock-screens 1 6 recovery-mode 1 6 bootloader 1 6
+74656 settings 1 8 performance 1 8 processes 1 8
+27162 clockworkmod-recovery 1 6
+22897 sync 1 12 facebook 1 12 nexus-5 1 12
+54034 contacts 1 6 4.4-kitkat 1 6
+145429 adb 1 6 apk 1 6
+55167 antivirus 1 11
+54918 updates 1 17
+56284 updates 1 10
+56301 updates 1 18
+56662 applications 1 7 uninstallation 1 7
+122778 applications 1 21 uninstallation 1 21
+57107 sd-card 1 4
+32482 dialer 1 14 emergency-calls 1 14
+17771 security 1 15
+58226 security 1 7
+44585 google-play-store 1 6 factory-reset 1 6 restore 1 6
+59638 samsung 1 6 samsung-galaxy-note-3 1 6
+59651 samsung 1 5 samsung-galaxy-note-3 1 5
+59817 sync 1 10 share-menu 1 10 intents 1 10
+53661 nexus-7 1 5 nfc 1 5 4.4-kitkat 1 9 tethering 1 9 reverse-tether 1 9 usb-tethering 1 9
+53576 internet 1 4 mobile-network 1 4 sony-xperia 1 4 dual-sim 1 4 calls 1 6 dialer 1 6
+72805 adb 1 55 root-access 1 55 shell 1 55
+88024 adb 1 78 root-access 1 78 shell 1 78
+12477 adb 1 5 root-access 1 5 shell 1 5
+130792 google-backup 1 4
+101950 usb 1 9 cyanogenmod 1 9 root-access 1 6 es-file-explorer 1 6
+63596 permissions 1 10 privacy 1 10
+63813 share-menu 1 4
+59438 share-menu 1 23
+25737 share-menu 1 6
+52379 share-menu 1 5
+94802 4.4-kitkat 1 29 tethering 1 29 reverse-tether 1 29 usb-tethering 1 29
+152342 4.4-kitkat 1 6 tethering 1 6 reverse-tether 1 6 usb-tethering 1 6
+64756 alternative-markets 1 20
+92094 alternative-markets 1 4
+57926 backup 1 17 storage 1 17 offline 1 17
+58149 adb 1 5
+135484 adb 1 6
+67339 sd-card 1 4 file-system 1 4 file-transfer 1 4 security 1 4 5.0-lollipop 2 14 pattern-lock 1 4
+69253 cyanogenmod 1 21 samsung-galaxy-s-2 1 21 partitions 1 21
+84686 cyanogenmod 1 10 samsung-galaxy-s-2 1 10 partitions 1 10
+108846 maps 1 4
+72228 google-play-store 1 5 gmail 1 5 google 1 5
+69037 applications 1 5 screen-brightness 1 5
+85650 4.4-kitkat 1 6 download-manager 1 6
+90698 4.4-kitkat 1 9 download-manager 1 9
+78894 malware 1 4
+16832 ankidroid 1 11
+79764 internal-storage 1 5 recovery-mode 1 5
+206006 internal-storage 1 4 recovery-mode 1 4
+24450 5.0-lollipop 2 9 smart-lock 1 4 notifications 1 5
+90968 5.0-lollipop 1 8 smart-lock 1 8
+110779 5.0-lollipop 1 6 smart-lock 1 6
+81670 notifications 1 6 calendar 1 6 google-calendar 1 6
+2926 notifications 1 4 calendar 1 4 google-calendar 1 4
+16320 nexus-4 1 9 5.0-lollipop 1 9 google-play-services 1 9 smart-lock 1 9
+81105 lock-screens 1 11 security 1 11 5.0-lollipop 1 11
+81870 lock-screens 1 47 security 1 47 5.0-lollipop 1 47
+65466 lock-screens 1 16 5.0-lollipop 1 16 smart-lock 1 16
+82097 notifications 1 8 5.0-lollipop 1 8
+61257 gmail 1 5 tasker 1 5
+188851 gmail 1 4 tasker 1 4
+81812 media-player 1 6
+81971 media-player 1 10
+81929 keyboard 1 5 nexus-4 1 5 5.0-lollipop 1 5 color 1 5
+83467 5.0-lollipop 1 9 privacy 1 9 geolocation 1 9 location-services 1 9
+173212 5.0-lollipop 1 4 privacy 1 4 geolocation 1 4 location-services 1 4
+41884 settings 1 4 internal-storage 1 4 storage 1 4 ram 1 4 sim-card 1 4
+247674 adb 1 7 system-info 1 7
+121599 samsung-galaxy-s-3 1 4 gps 1 4 gps-tracking 1 4
+83603 wi-fi 1 5 5.0-lollipop 1 5 mobile-network 1 5
+63833 wi-fi 1 26 5.0-lollipop 1 26 mobile-network 1 26
+62445 notifications 1 5 malware 1 5
+32601 notifications 1 14 malware 1 14
+84999 notifications 1 6 malware 1 6
+81639 5.0-lollipop 1 41 recent-apps-list 1 41
+79766 applications 1 4 physical-damage 1 4
+15562 4.4-kitkat 1 6 gmail 1 6 google-account 1 6 google-apps 1 6 accounts 1 6
+86241 4.4-kitkat 1 12 gmail 1 12 google-account 1 12 google-apps 1 12 accounts 1 12
+27149 youtube 1 5 chrome-for-android 1 13 password 1 13 privacy 1 13 url 1 13 applications 1 5 audio 1 5
+89845 root-access 1 4 file-system 1 4
+86358 5.0-lollipop 2 15 applications 1 10 adb 1 10 external-sd 1 10 internal-sd 1 10 wi-fi 1 11
+89702 4.4-kitkat 1 4 bloatware 1 4 disable-app 1 4
+53438 4.4-kitkat 1 7 bloatware 1 7 disable-app 1 7
+91072 whatsapp-messenger 1 10
+133420 whatsapp-messenger 1 4
+116933 heimdall 1 5
+1568 heimdall 1 13
+48145 nexus-7 1 27 certificates 1 27
+21217 nexus-7 1 8 certificates 1 8
+95581 wi-fi 1 33 5.0-lollipop 1 33 networking 1 33 mobile-network 1 33 captive-portal 1 33
+115097 wi-fi 1 13 5.0-lollipop 1 13 networking 1 13 mobile-network 1 13 captive-portal 1 13
+95661 swype 1 11 emoticons 1 11
+97734 swype 1 5 emoticons 1 5
+52701 updates 1 7 nexus-5 1 7 ota-update 1 7
+104400 updates 1 25 nexus-5 1 25 ota-update 1 25
+117218 5.0-lollipop 1 4 samsung-galaxy-s-5 1 4 google-voice 1 4 google-hangouts 1 4
+205426 accounts 1 10 multi-user 1 10
+93894 system 1 6 clock 1 6
+101133 permissions 1 4 unknown-sources 1 4
+57153 2.3-gingerbread 1 9 insufficient-memory 1 9 ram 1 9 google-play-services 1 9
+26849 sd-card 1 5 windows 1 5 file-transfer 1 5 bluestacks 1 5
+95577 5.0-lollipop 1 5 notifications 1 5
+8129 5.0-lollipop 1 4 notifications 1 4
+103327 applications 1 6 adb 1 6 5.0-lollipop 1 6 external-sd 1 6 internal-sd 1 6
+103304 applications 1 4 adb 1 4 5.0-lollipop 1 4 external-sd 1 4 internal-sd 1 4
+71754 browser 1 17 offline 1 17 html 1 17
+86024 browser 1 9 offline 1 9 html 1 9
+18790 chrome-for-android 1 7
+108145 applications 1 5 internal-storage 1 5 storage 1 5 cache 1 5
+94756 5.0-lollipop 1 6 music 1 6 gallery 1 6
+110633 5.0-lollipop 1 5 music 1 5 gallery 1 5
+61395 4.4-kitkat 1 4 boot 1 4 5.1-lollipop 1 4
+110415 auto-rotation 1 5
+108847 5.0-lollipop 1 20 samsung-galaxy-s-4 1 20 google-account 1 20 accounts 1 20 applications 1 5 audio 1 5
+116671 5.0-lollipop 1 71 samsung-galaxy-s-4 1 71 google-account 1 71 accounts 1 71
+96966 5.0-lollipop 1 4 dalvik 1 4 art 1 4
+75084 5.0-lollipop 1 4 dalvik 1 4 art 1 4
+68125 applications 1 4 adb 1 4 installation 1 4 apk 1 4
+85511 applications 1 5 adb 1 5 installation 1 5 apk 1 5
+25234 backup 1 5 mount 1 5 twrp 1 5
+135825 backup 1 7 mount 1 7 twrp 1 7
+153954 chrome-for-android 1 4 password 1 4 privacy 1 4 url 1 4
+118637 security 1 9
+118172 security 1 20
+120021 rooting 1 6 recovery-mode 1 6 bootloader 1 6 twrp 1 6 lock-screens 1 66 malware 1 66
+58561 rooting 1 4 recovery-mode 1 4 bootloader 1 4 twrp 1 4
+100457 applications 1 41
+121414 applications 1 6
+121459 applications 1 17
+106309 samsung-galaxy-s-3 1 12 adb 1 12 usb-debugging 1 12 broken-screen 1 12
+22475 data-transfer 1 4 line 1 4
+126666 wi-fi 1 9 captive-portal 1 9 applications 1 5 samsung 1 5 calendar 1 5 6.0-marshmallow 1 5
+18675 wi-fi 1 32 captive-portal 1 32
+128227 camera 1 21
+128294 camera 1 4
+128380 camera 1 9
+32742 email 1 11 gmail 1 11 offline 1 11
+129270 boot-loop 1 7 unbricking 1 7 fastboot 1 7
+9139 boot-loop 1 4 unbricking 1 4 fastboot 1 4
+130726 backup 1 6 linux 1 6 encryption 1 6 mount 1 6 broken-screen 1 6
+144389 backup 1 10 linux 1 10 encryption 1 10 mount 1 10 broken-screen 1 10
+130764 usb-connection-mode 1 10 mtp 1 10 6.0-marshmallow 1 10
+131593 usb-connection-mode 1 7 mtp 1 7 6.0-marshmallow 1 7
+131804 usb-connection-mode 1 16 mtp 1 16 6.0-marshmallow 1 16
+145076 google-now 1 4 6.0-marshmallow 1 4
+158334 debug 1 4
+152677 nexus-5 1 5 launcher 1 5 6.0-marshmallow 1 5 auto-rotation 1 5
+103805 fastboot 1 9 windows 1 9 sony-xperia 1 9 6.0-marshmallow 1 9 sony-xperia-z3-compact 1 9
+7227 fastboot 1 14 windows 1 14 sony-xperia 1 14 6.0-marshmallow 1 14 sony-xperia-z3-compact 1 14
+138566 cyanogenmod 1 7 rom-flashing 1 7 custom-roms 1 7 force-close 1 7
+148271 cyanogenmod 1 6 rom-flashing 1 6 custom-roms 1 6 force-close 1 6
+157995 cyanogenmod 1 4 rom-flashing 1 4 custom-roms 1 4 force-close 1 4
+140151 whatsapp-messenger 1 6
+24154 whatsapp-messenger 1 4
+116800 usb-connection-mode 1 5 6.0-marshmallow 1 5 mtp 1 5 developer-options 1 9 storage 1 40 security 1 5
+96178 usb-connection-mode 1 4 6.0-marshmallow 1 4 mtp 1 4
+142863 custom-roms 1 5 rom 1 5 stock-rom 1 5 vanilla-android 1 5
+111552 clockworkmod-recovery 1 7 nandroid 1 7
+140905 applications 1 5 rooting 1 5 root-access 1 5 systemless-root 1 5
+146773 android-x86 1 7 remix-os 1 7
+163656 android-x86 1 5 remix-os 1 5
+38760 4.4-kitkat 1 5
+121800 4.4-kitkat 1 4 applications 1 5 notifications 1 5 8.0-oreo 1 5 nokia-8 1 5
+208008 youtube 1 5
+246221 fastboot 1 7
+54327 applications 1 9 6.0-marshmallow 1 9 menu 1 9
+216232 applications 1 7 6.0-marshmallow 1 7 menu 1 7
+146330 networking 1 6 6.0-marshmallow 1 6 permissions 1 6
+153762 networking 1 4 6.0-marshmallow 1 4 permissions 1 4
+152843 shell 1 4 terminal 1 4 file-permissions 1 4
+159317 boot-animation 1 7
+84986 rooting 1 8 samsung-galaxy-s-7-edge 1 8
+100296 rooting 1 8 samsung-galaxy-s-7-edge 1 8
+160224 rooting 1 4 samsung-galaxy-s-7-edge 1 4
+164848 lock-screens 1 12 malware 1 12
+133123 lock-screens 1 15 malware 1 15
+12055 firefox 1 4 browser-add-ons 1 4 browser-tabs 1 4
+144524 samsung 1 24 recovery-mode 1 24 samsung-galaxy-s-5 1 24 odin 1 24
+166716 chrome-for-android 1 5 facebook 1 5
+170720 chrome-for-android 1 4 facebook 1 4
+5669 applications 1 5 google-play-store 1 5 instant-apps 1 5
+177540 google-play-music 1 5 mp3 1 5
+131028 applications 1 14 security 1 14 data-connection 1 14
+256464 settings 1 4 google 1 4
+150986 6.0-marshmallow 1 7 ram 1 7 apk 1 4 unknown-sources 1 4 shareit 1 4 cyanogenmod 1 12 rom-flashing 1 12 motorola 1 12 lineageos 1 12 arm-processors 1 15 cpu 1 15 samsung 2 11 charging 1 4 device-firmware 1 7
+222586 adb 1 18 huawei 1 18 usb-drivers 1 18
+257954 adb 1 4 huawei 1 4 usb-drivers 1 4
+202974 languages 1 13 gboard 1 13
+202918 root-access 1 7 security 1 7 permissions 1 7 privacy 1 7
+144398 gmail 1 4
+137930 gmail 1 5
+207977 twrp 1 37 ota-update 1 37 lineageos 1 37
+40003 twrp 1 65 ota-update 1 65 lineageos 1 65
+116537 backup 1 5 twrp 1 5
+240709 backup 1 10 twrp 1 10
+215415 apk 1 8 unknown-sources 1 8 shareit 1 8
+209414 wifi-hotspot 2 20 7.1-nougat 2 20 google-pixel 2 20 wi-fi 1 4 screen 1 9 user-interface 1 9
+205764 processor 1 63 arm-processors 1 63 samsung 1 4 device-firmware 1 4 rooting 1 5 magisk 1 5
+116235 processor 1 15 arm-processors 1 15
+10091 processor 1 9 arm-processors 1 9
+223632 processor 1 5 arm-processors 1 5
+60279 wi-fi 1 5 security 1 5 bluetooth 1 5 smart-lock 1 5
+241306 xiaomi 1 10 miui 1 10 developer-options 1 10
+246456 xiaomi 1 5 miui 1 5 developer-options 1 5
+268875 xiaomi 1 5 miui 1 5 developer-options 1 5
+104946 xiaomi 1 6 miui 1 6 developer-options 1 6
+244844 arm-processors 1 22 cpu 1 22
+265909 google-account 1 5 imei 1 5
+146132 applications 1 6 lost-phone 1 6 samsung-galaxy-core-prime 1 6
+3141 applications 1 8 lost-phone 1 8 samsung-galaxy-core-prime 1 8
+3573 settings 1 4 installation 1 4 unknown-sources 1 4
+103614 developer-options 1 5
+218526 storage 1 16 rooting 1 16 magisk 1 16 8.1-oreo 1 4 applications 1 35 push-notifications 1 35
+285220 security 1 12
+259285 9.0-pie 1 34
+54852 9.0-pie 1 51
+247431 8.1-oreo 1 4 applications 1 5 push-notifications 1 5 calls 1 14 silent-mode 1 14
+308609 calls 1 6 silent-mode 1 6
+307668 calls 1 60 silent-mode 1 60
+282507 calls 1 8 silent-mode 1 8
+288327 calls 1 4 silent-mode 1 4

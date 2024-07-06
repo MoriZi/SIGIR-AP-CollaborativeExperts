@@ -1,0 +1,4 @@
+Num nodes= 4102 Num edges= 11322
+Num Q= 1697 indexes=0..1696
+Num users= 1838 indexes=1697..3534
+Num tags= 567 indexes=3535..4101
